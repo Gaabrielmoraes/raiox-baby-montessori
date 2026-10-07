@@ -1,0 +1,22 @@
+﻿
+== tibatoes.com
+   -> ANUNCIA — 200 anuncio(s) encontrado(s)
+
+== toddla.co
+   -> ANUNCIA — 200 anuncio(s) encontrado(s)
+
+== lovealotter.com
+   -> NAO ANUNCIA no Google (contador = 0, confirmado)
+
+== montessoriparadise.com
+   -> ANUNCIA — 8 anuncio(s) encontrado(s)
+
+== clevertoysbox.com
+   -> NAO ANUNCIA no Google (contador = 0, confirmado)
+
+=== RESUMO ===
+tibatoes.com               anuncia no Google
+toddla.co                  anuncia no Google
+lovealotter.com            nao encontrado
+montessoriparadise.com     anuncia no Google
+clevertoysbox.com          nao encontrado

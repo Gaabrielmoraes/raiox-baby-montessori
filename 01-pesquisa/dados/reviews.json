@@ -1,0 +1,149 @@
+﻿{
+    "tibatoes.com":  {
+                         "dominio":  "tibatoes.com",
+                         "produtos":  [
+                                          {
+                                              "handle":  "free-100-pages-abc-first-words-learning-pack",
+                                              "reviewCount":  5,
+                                              "ratingValue":  "5.0",
+                                              "fonte":  "schema.org"
+                                          },
+                                          {
+                                              "handle":  "bath-letters-and-numbers",
+                                              "reviewCount":  93,
+                                              "ratingValue":  "4.7",
+                                              "fonte":  "schema.org"
+                                          },
+                                          {
+                                              "handle":  "bathtime-bundle",
+                                              "reviewCount":  2,
+                                              "ratingValue":  "5.0",
+                                              "fonte":  "schema.org"
+                                          }
+                                      ],
+                         "declarado_home":  9869,
+                         "apps_review":  [
+                                             "loox"
+                                         ],
+                         "pedidos_estimados":  {
+                                                   "base_reviews":  100,
+                                                   "fonte_base":  "soma de 3 produtos amostrados (piso, nao total)",
+                                                   "a_3pct":  3333,
+                                                   "a_1pct":  10000
+                                               },
+                         "alerta_home":  "A home declara 9869 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+                     },
+    "toddla.co":  {
+                      "dominio":  "toddla.co",
+                      "produtos":  [
+
+                                   ],
+                      "declarado_home":  11000,
+                      "apps_review":  [
+
+                                      ],
+                      "alerta_home":  "A home declara 11000 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+                  },
+    "montessoriparadise.com":  {
+                                   "dominio":  "montessoriparadise.com",
+                                   "produtos":  [
+                                                    {
+                                                        "handle":  "ufo-sensory-play-toy-for-toddlers",
+                                                        "reviewCount":  38,
+                                                        "ratingValue":  "4.97",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "montessori-beaded-treasure-box",
+                                                        "reviewCount":  19,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "giraffe-sensory-learning-busy-board",
+                                                        "reviewCount":  16,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "montessori-busy-board",
+                                                        "reviewCount":  5,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "kids-culinary-adventure-set-16-pieces",
+                                                        "reviewCount":  12,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "wooden-farm-truck",
+                                                        "reviewCount":  6,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "cuddly-bear-quiet-book",
+                                                        "reviewCount":  5,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "wooden-puzzle",
+                                                        "reviewCount":  7,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "montessori-wooden-stacking-sorting-puzzle",
+                                                        "reviewCount":  2,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "montessori-wooden-switch-board",
+                                                        "reviewCount":  1,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    },
+                                                    {
+                                                        "handle":  "montessori-farm-adventure-barn",
+                                                        "reviewCount":  6,
+                                                        "ratingValue":  "5.00",
+                                                        "fonte":  "schema.org"
+                                                    }
+                                                ],
+                                   "declarado_home":  null,
+                                   "apps_review":  [
+                                                       "judge.me"
+                                                   ],
+                                   "pedidos_estimados":  {
+                                                             "base_reviews":  117,
+                                                             "fonte_base":  "soma de 11 produtos amostrados (piso, nao total)",
+                                                             "a_3pct":  3900,
+                                                             "a_1pct":  11700
+                                                         }
+                               },
+    "clevertoysbox.com":  {
+                              "dominio":  "clevertoysbox.com",
+                              "produtos":  [
+
+                                           ],
+                              "declarado_home":  415,
+                              "apps_review":  [
+                                                  "judge.me"
+                                              ],
+                              "alerta_home":  "A home declara 415 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+                          },
+    "lovealotter.com":  {
+                            "dominio":  "lovealotter.com",
+                            "produtos":  [
+
+                                         ],
+                            "declarado_home":  null,
+                            "apps_review":  [
+                                                "judge.me"
+                                            ]
+                        }
+}

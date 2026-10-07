@@ -1,0 +1,73 @@
+﻿
+============================================================
+tibatoes.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, gtag, klarna, klaviyo, loox, shoppay, snap, tiktok, triplewhale, upcart
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 33.71 | faixa 5.62-275.73 | desde 2025-11-21
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : 1431219 caindo
+  sitemap    : 13 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @tibatoes: 33K seguidores | 335 posts
+
+============================================================
+toddla.co
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, gtag, gtm, klaviyo, snap, tiktok, upcart
+  pixel meta : -
+  catalogo   : 52 produtos | mediana 27.48 | faixa 7.95-200 | desde 2021-04-17
+  campeao    : Toddla™ Montessori Busy Board (39.99)
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : 476097 subindo
+  sitemap    : 5 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @toddla.co: 70K seguidores | 335 posts
+
+============================================================
+lovealotter.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, judge.me, klaviyo, pinterest, snap
+  pixel meta : -
+  catalogo   : 116 produtos | mediana 34.99 | faixa 6.99-158.89 | desde 2020-04-21
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 9 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @lovealotter: 1,574 seguidores | 107 posts
+
+============================================================
+montessoriparadise.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, gtag, gtm, judge.me, klarna, klaviyo, pinterest, snap
+  pixel meta : -
+  catalogo   : 43 produtos | mediana 36.97 | faixa 4.99-144.97 | desde 2026-01-21
+  campeao    : Montessori Sensory Pull Toy (25.97)
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 5 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+clevertoysbox.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, judge.me, klaviyo, pinterest
+  pixel meta : -
+  catalogo   : 124 produtos | mediana 38.97 | faixa 19.97-98.97 | desde 2024-01-20
+  campeao    : Montessori Stuffed Musical Caterpillar (38.97)
+  wayback    : 2024-01-21
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 5 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @clevertoysbox: 357 seguidores | 41 posts
+
+
+Salvo em C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Baby Parenting\01-pesquisa\dados\dados-brutos.json

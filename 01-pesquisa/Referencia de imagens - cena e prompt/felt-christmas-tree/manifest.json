@@ -1,0 +1,92 @@
+{
+  "product_handle": "felt-christmas-tree",
+  "competitor": "toddla.co",
+  "competitor_product_title": "Toddla™ Montessori Christmas Tree",
+  "competitor_page": "https://toddla.co/products/toddla-montessori-christmas-tree",
+  "competitor_json": "https://toddla.co/products/toddla-montessori-christmas-tree.js",
+  "real_carousel_count": 10,
+  "downloaded_carousel_count": 10,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Main.jpg?v=1791314679",
+      "alt": null,
+      "bytes": 263508
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_0e87940b-01fd-42ee-b4ad-8a26f9b526b1.jpg?v=1791316617",
+      "alt": null,
+      "bytes": 199294
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Dark.jpg?v=1791314792",
+      "alt": null,
+      "bytes": 383316
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_2_b8e84e08-daff-4c23-a5b4-bb90a8cbc97d.png?v=1791316580",
+      "alt": null,
+      "bytes": 1139355
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating.jpg?v=1791315008",
+      "alt": null,
+      "bytes": 399733
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating_c99b5a75-ea9d-4536-9eb7-c5258530558a.jpg?v=1791315087",
+      "alt": null,
+      "bytes": 389452
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Closeup.jpg?v=1791314792",
+      "alt": null,
+      "bytes": 297779
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Dimensions_74d4bc0e-2c8c-4dda-b3fa-ae309dbf0e8c.png?v=1791315608",
+      "alt": null,
+      "bytes": 325892
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-09.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_What_s_Included_999904b7-96fe-4991-b2fc-1f39012a92b6.png?v=1791315608",
+      "alt": null,
+      "bytes": 437936
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Comparison.png?v=1761621328",
+      "alt": null,
+      "bytes": 672767
+    }
+  ]
+}

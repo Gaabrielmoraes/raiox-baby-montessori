@@ -1,0 +1,790 @@
+{
+  "geradoEm": "2026-10-06T14:03:58.227Z",
+  "termos": [
+    "baby carrier",
+    "baby wrap",
+    "hip seat carrier"
+  ],
+  "paises": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "FR",
+    "NL",
+    "ES"
+  ],
+  "pedido": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante",
+  "total": 48,
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "baby carrier",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": true,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 2,
+      "termo": "baby carrier",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 3,
+      "termo": "baby carrier",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 4,
+      "termo": "baby carrier",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 5,
+      "termo": "baby carrier",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 6,
+      "termo": "baby carrier",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 7,
+      "termo": "baby carrier",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 8,
+      "termo": "baby carrier",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 9,
+      "termo": "baby carrier",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 10,
+      "termo": "baby carrier",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 11,
+      "termo": "baby carrier",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 12,
+      "termo": "baby carrier",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 13,
+      "termo": "baby carrier",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 14,
+      "termo": "baby carrier",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 15,
+      "termo": "baby carrier",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 16,
+      "termo": "baby carrier",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby carrier",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 17,
+      "termo": "baby wrap",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 18,
+      "termo": "baby wrap",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 19,
+      "termo": "baby wrap",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 20,
+      "termo": "baby wrap",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 21,
+      "termo": "baby wrap",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 22,
+      "termo": "baby wrap",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 23,
+      "termo": "baby wrap",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 24,
+      "termo": "baby wrap",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 25,
+      "termo": "baby wrap",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 26,
+      "termo": "baby wrap",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 27,
+      "termo": "baby wrap",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 28,
+      "termo": "baby wrap",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 29,
+      "termo": "baby wrap",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 30,
+      "termo": "baby wrap",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 31,
+      "termo": "baby wrap",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 32,
+      "termo": "baby wrap",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "baby wrap",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 33,
+      "termo": "hip seat carrier",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 34,
+      "termo": "hip seat carrier",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 35,
+      "termo": "hip seat carrier",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 36,
+      "termo": "hip seat carrier",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 37,
+      "termo": "hip seat carrier",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 38,
+      "termo": "hip seat carrier",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 39,
+      "termo": "hip seat carrier",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 40,
+      "termo": "hip seat carrier",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 41,
+      "termo": "hip seat carrier",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 42,
+      "termo": "hip seat carrier",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 43,
+      "termo": "hip seat carrier",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 44,
+      "termo": "hip seat carrier",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 45,
+      "termo": "hip seat carrier",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 46,
+      "termo": "hip seat carrier",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 47,
+      "termo": "hip seat carrier",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 48,
+      "termo": "hip seat carrier",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "hip seat carrier",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    }
+  ]
+}

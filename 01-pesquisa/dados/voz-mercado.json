@@ -1,0 +1,30 @@
+{
+  "bloco": 12,
+  "coletado_em": "2026-10-06",
+  "metodo": "WebSearch (guias e reviews de busy board, PBS/LLL sobre tela e colo, relatorios de review Amazon via kimola/shulex, Trustpilot toddla.co, alertas CPSC/ACCC). Threads do Reddit direto nao vieram indexadas na busca; a linguagem veio de reviews de comprador e de guias de pais.",
+  "dores_objecoes": [
+    { "frase": "Screen time is a great tool when you really need to get something done and nothing else works", "contexto": "a culpa da tela: o pai usa o tablet para conseguir cozinhar ou trabalhar e se sente mal", "fonte": "pbs.org - screen time toddlers parents dont feel guilty" },
+    { "frase": "Toddlers can be finicky, you never know what activity will keep your little one playing", "contexto": "objecao: 'meu filho enjoa de tudo em 2 minutos'", "fonte": "toddlerapproved.com - toddler activities for working parents" },
+    { "frase": "a child managed to completely pull the bottom piece with the round beads off", "contexto": "medo de engasgo com peca que solta: e a objecao de seguranca numero 1", "fonte": "review de comprador Montessori busy board (desertcart / kimola)" },
+    { "frase": "Esjay Toddler Busy Board recalled because red knobs can come off, and a child could choke", "contexto": "recall real de 276 mil unidades vendidas na Amazon (2023-2026)", "fonte": "wftv.com / wdbo.com - recall alert 276k montessori toddler toys" },
+    { "frase": "the horn button can be an annoyance / battery stopped working after about 5 uses", "contexto": "board com som e pilha irrita os pais e quebra cedo", "fonte": "shopsavvy / chaindesk resumo de reviews de busy board" },
+    { "frase": "felt cheaply made / smaller than expected", "contexto": "decepcao com qualidade e tamanho quando chega", "fonte": "resumo de reviews busy board (shopsavvy, desertcart)" },
+    { "frase": "No batteries. No flashing lights. Just peace.", "contexto": "o desejo inverso: brinquedo calmo, sem estimulo excessivo (titulo do anuncio mais escalado da toddla.co)", "fonte": "Biblioteca de Anuncios Meta - toddla.co" }
+  ],
+  "provas_que_o_comprador_quer": [
+    "pecas presas de verdade (parafusadas, nada que solte): mostrar o teste de puxar",
+    "sem pilha ou com compartimento parafusado (pilha AA, nunca bateria de botao)",
+    "quanto tempo prende a atencao (videos de 'cafe ainda quente', 'cozinho o jantar agora')",
+    "faixa de idade clara (1 a 3 anos) e o que cada atividade ensina (motricidade fina)",
+    "tamanho real na mao (foto com escala) e acabamento de madeira lisa",
+    "certificacao de seguranca de brinquedo (padrao do pais) visivel na pagina"
+  ],
+  "ocasioes_e_avatar": [
+    "mae de crianca de 10 a 30 meses que precisa de 20 minutos para cozinhar, trabalhar ou tomar banho",
+    "avo procurando presente 'que a crianca realmente usa' (Natal, primeiro aniversario)",
+    "pais que querem reduzir tela sem perder o sossego (viagem de carro, aviao, restaurante)",
+    "pais de crianca com TDAH ou autismo buscando atividade sensorial (angulo usado pela Tibatoes; cuidado com promessa medica)"
+  ],
+  "leitura": "A dor central nao e 'educacao', e o sossego do adulto sem culpa de tela: o busy board compra 20 minutos. A objecao central e seguranca (peca solta = engasgo, ja houve recall grande). Quem vence prova as duas coisas em video: crianca concentrada enquanto a mae faz outra coisa, e a peca que nao sai quando puxada. O segundo comprador forte e a avo no Natal.",
+  "lacunas": "Comentarios dos anuncios (Meta) nao coletados (o conector nao entrega comentarios); threads do Reddit direto nao indexadas na busca."
+}

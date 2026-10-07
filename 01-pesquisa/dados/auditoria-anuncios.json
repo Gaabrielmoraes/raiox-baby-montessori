@@ -1,0 +1,166 @@
+{
+  "data": "2026-10-06",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "Tibatoes",
+      "dominio": "tibatoes.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "449754711560958"
+      ],
+      "tentativas": [
+        "search_terms=tibatoes.com (ALL)"
+      ],
+      "reportado": {
+        "ativos": 3100,
+        "historico": 11300
+      },
+      "biblioteca": {
+        "ativos": 3100,
+        "historico": 11300
+      },
+      "nota": "pagina 'Parent Viral' tambem aponta para o dominio na raspagem (2 anuncios na amostra); nao somada por nao aparecer na busca por dominio do conector"
+    },
+    {
+      "loja": "toddla.co",
+      "dominio": "toddla.co",
+      "metodo": "dominio",
+      "page_ids": [
+        "109026888570751",
+        "111103548352756",
+        "166589586540125"
+      ],
+      "tentativas": [
+        "search_terms=toddla.co (ALL)"
+      ],
+      "reportado": {
+        "ativos": 1059,
+        "historico": 3392
+      },
+      "biblioteca": {
+        "ativos": 1059,
+        "historico": 3392
+      },
+      "nota": "3 paginas somadas: toddla.co + perfis de mae 'Savannah Bell' e 'Mia's Mom Hacks' que mandam trafego para o dominio"
+    },
+    {
+      "loja": "Lovealotter",
+      "dominio": "lovealotter.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "101882531954852"
+      ],
+      "tentativas": [
+        "search_terms=lovealotter.com (ALL)"
+      ],
+      "reportado": {
+        "ativos": 261,
+        "historico": 275
+      },
+      "biblioteca": {
+        "ativos": 261,
+        "historico": 275
+      },
+      "nota": "historico curto para uma loja de 2020: a pagina atual concentra a operacao recente"
+    },
+    {
+      "loja": "Montessori Paradise",
+      "dominio": "montessoriparadise.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "1036853126167354"
+      ],
+      "tentativas": [
+        "search_terms=montessoriparadise.com (ALL)"
+      ],
+      "reportado": {
+        "ativos": 119,
+        "historico": 338
+      },
+      "biblioteca": {
+        "ativos": 119,
+        "historico": 338
+      },
+      "nota": ""
+    },
+    {
+      "loja": "Clever Toys Box",
+      "dominio": "clevertoysbox.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "227751457082819"
+      ],
+      "tentativas": [
+        "search_terms=clevertoysbox.com (ALL)"
+      ],
+      "reportado": {
+        "ativos": 19,
+        "historico": 333
+      },
+      "biblioteca": {
+        "ativos": 19,
+        "historico": 333
+      },
+      "nota": "anuncio de catalogo (titulo com 6 produtos), moeda CAD"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-06",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Tibatoes",
+        "dominio": "tibatoes.com",
+        "metodo": "dominio",
+        "reportado_ativos": 3100,
+        "biblioteca_ativos": 3100,
+        "biblioteca_historico": 11300,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "toddla.co",
+        "dominio": "toddla.co",
+        "metodo": "dominio",
+        "reportado_ativos": 1059,
+        "biblioteca_ativos": 1059,
+        "biblioteca_historico": 3392,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Lovealotter",
+        "dominio": "lovealotter.com",
+        "metodo": "dominio",
+        "reportado_ativos": 261,
+        "biblioteca_ativos": 261,
+        "biblioteca_historico": 275,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Montessori Paradise",
+        "dominio": "montessoriparadise.com",
+        "metodo": "dominio",
+        "reportado_ativos": 119,
+        "biblioteca_ativos": 119,
+        "biblioteca_historico": 338,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Clever Toys Box",
+        "dominio": "clevertoysbox.com",
+        "metodo": "dominio",
+        "reportado_ativos": 19,
+        "biblioteca_ativos": 19,
+        "biblioteca_historico": 333,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

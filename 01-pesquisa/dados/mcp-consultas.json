@@ -1,0 +1,790 @@
+{
+  "geradoEm": "2026-10-06T15:12:13.298Z",
+  "termos": [
+    "montessori toys",
+    "montessori busy board",
+    "montessori toddler"
+  ],
+  "paises": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "FR",
+    "NL",
+    "ES"
+  ],
+  "pedido": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante",
+  "total": 48,
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "montessori toys",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": true,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 2,
+      "termo": "montessori toys",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 3,
+      "termo": "montessori toys",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 4,
+      "termo": "montessori toys",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 5,
+      "termo": "montessori toys",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 6,
+      "termo": "montessori toys",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 7,
+      "termo": "montessori toys",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 8,
+      "termo": "montessori toys",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 9,
+      "termo": "montessori toys",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 10,
+      "termo": "montessori toys",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 11,
+      "termo": "montessori toys",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 12,
+      "termo": "montessori toys",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 13,
+      "termo": "montessori toys",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 14,
+      "termo": "montessori toys",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 15,
+      "termo": "montessori toys",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 16,
+      "termo": "montessori toys",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toys",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 17,
+      "termo": "montessori busy board",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 18,
+      "termo": "montessori busy board",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 19,
+      "termo": "montessori busy board",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 20,
+      "termo": "montessori busy board",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 21,
+      "termo": "montessori busy board",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 22,
+      "termo": "montessori busy board",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 23,
+      "termo": "montessori busy board",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 24,
+      "termo": "montessori busy board",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 25,
+      "termo": "montessori busy board",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 26,
+      "termo": "montessori busy board",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 27,
+      "termo": "montessori busy board",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 28,
+      "termo": "montessori busy board",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 29,
+      "termo": "montessori busy board",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 30,
+      "termo": "montessori busy board",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 31,
+      "termo": "montessori busy board",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 32,
+      "termo": "montessori busy board",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori busy board",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 33,
+      "termo": "montessori toddler",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 34,
+      "termo": "montessori toddler",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 35,
+      "termo": "montessori toddler",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 36,
+      "termo": "montessori toddler",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 37,
+      "termo": "montessori toddler",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 38,
+      "termo": "montessori toddler",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 39,
+      "termo": "montessori toddler",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 40,
+      "termo": "montessori toddler",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 41,
+      "termo": "montessori toddler",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 42,
+      "termo": "montessori toddler",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 43,
+      "termo": "montessori toddler",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 44,
+      "termo": "montessori toddler",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 45,
+      "termo": "montessori toddler",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 46,
+      "termo": "montessori toddler",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 47,
+      "termo": "montessori toddler",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    },
+    {
+      "id": 48,
+      "termo": "montessori toddler",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "montessori toddler",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante"
+      }
+    }
+  ]
+}

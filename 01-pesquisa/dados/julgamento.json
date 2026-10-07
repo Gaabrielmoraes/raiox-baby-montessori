@@ -1,0 +1,42 @@
+{
+  "fase": "8 - julgamento de qualidade + banca por pagina",
+  "data": "2026-10-06",
+  "revisores_fase7": { "revisar.mjs": "0 problemas, 2 avisos esperados (referencia pendente ate a amostra; PDF da Tibatoes com carrossel real de 1 imagem)", "revisar-consistencia.mjs": "0 problemas", "revisar-responsivo.js": "0 problemas (19 paginas x 390/1280, blueprint 4 frames)", "auditar-anuncios.mjs": "aprovado, 0% de divergencia nas 5 lojas", "revisar-telas.mjs": "12 de 12 telas, 0 problemas", "validar-build.js (/montar-loja)": "aceito; 2 avisos: produtos sem foto (so existe depois da amostra) e 8 posicoes de imagem que apontam para os prompts por referencia" },
+  "gabarito": {
+    "1_numero_igual_em_todas": "nao: sobrevivencia 5,7% a 94,9%, ativos 19 a 3.100, scores 8 a 11; nenhum ROAS apresentado",
+    "2_origem_declarada": "sim: todo numero com nat() (observado/calculado/inferido/recomendado) ou na() com motivo",
+    "3_implausivel": "nao: unico faturamento (Paradise, US$ 17 mil a 51 mil/mes) e coerente com 119 anuncios ativos e loja de 9 meses; marcado estimado incerto",
+    "4_derivado_de_alegacao": "nao: '11.000 reviews', '9.869 reviews', '80K+ customers', '415 reviews' tratados como alegacao e nunca usados em conta",
+    "5_categoria": "sim: as 5 vendem busy board/brinquedo Montessori (catalogo lido). Excluidos por contaminacao: climbersgift.com (presente de escalada), escolas Montessori, romances/dramas, pet",
+    "6_veredito_incoerente": "corrigido: o texto dizia que as 4 lojas modelo tinham o busy board como campeao; o campeao da Montessori Paradise e a Discovery Box. Ajustado para '3 das 4' na Central, Concorrentes, Estrategia, Plano e brief",
+    "7_conclusao_em_loja_fora_do_escopo": "nao",
+    "7a_tres_selos_e_marca": "sim: modelo, veredito, nivel e defensabilidade nas 5 fichas; marcas (Montessori Generation, Joyreal, TinyBusy) ficaram fora das fichas, so como contexto",
+    "7b_dropship_sustentado": "sim: agente na China com 5 a 12 dias de entrega (toddla, Tibatoes, Lovealotter), vendors de terceiros no catalogo (Lovealotter), prazo escondido (Clever Toys), endereco virtual + prova social inflada (Paradise)",
+    "8_mais_de_um_angulo": "sim: 9 buscas na extracao, 3 termos x 8 paises na matriz, 18 termos contados na AU, 527 termos de autocomplete",
+    "9_mercado_por_demografia": "nao: AU escolhida por anuncios ativos medidos + regra de importacao (tarifa e CPC nos EUA); a populacao entra so como denominador dos ativos",
+    "10_nome_colide": "nao: 'Wattlebee' ausente em todos os JSON da pesquisa e na busca web",
+    "11_lacunas_com_tentativas": "sim: SimilarWeb (3 tentativas, CloudFront, extensao recusada), custo (sem amostra), datas dos reviews, comentarios dos anuncios, capa/transcricao de video (ffmpeg/whisper ausentes)",
+    "12_premissa_culpada": "CPA de A$ 35 (premissa) e custo do fornecedor (estimado); em segundo lugar, o tamanho real das lojas (SimilarWeb bloqueado). Visivel em 'As decisoes que sao suas' do plano",
+    "13_defensabilidade_de_dado": "parcial: veio de catalogo, redes, longevidade e Tranco; pago x organico nao obtido e declarado",
+    "14_criativo_por_longevidade": "sim: baixar-criativos.mjs ranqueou por dias no ar depois de filtrar o ruido",
+    "15_bate_com_o_perfil": "sim: nivel iniciante -> 1 pais, 6 itens, escada simples (core + bump digital + upsell), investimento de teste calculado (~A$ 600)",
+    "16_decisoes_suas": "sim: estrategia (4 decisoes) e plano (4 cartoes, incluindo responsabilidade de seguranca)"
+  },
+  "banca_por_pagina": [
+    { "pagina": "Pesquisa - clique aqui.html (Central)", "resultado": "aprovada com correcao", "achado": "frase do campeao corrigida; conferida renderizada em 1280px" },
+    { "pagina": "demanda.html", "resultado": "aprovada", "achado": "18 termos com contagem e ruido, 10 candidatos sem contagem, links Trends/Biblioteca/Amazon AU" },
+    { "pagina": "mercados.html", "resultado": "aprovada", "achado": "radar dos 3 sub-nichos e o descarte do carregador explicados; limite da razao declarado" },
+    { "pagina": "concorrentes.html", "resultado": "aprovada com correcao", "achado": "frase do campeao e faixa de preco do busy board corrigidas" },
+    { "pagina": "loja-toddla.html", "resultado": "aprovada", "achado": "conferida renderizada em 390px; campeao como heroi" },
+    { "pagina": "loja-tibatoes.html", "resultado": "aprovada", "achado": "rajada marcada como nao extrapolavel; promessa medica sinalizada" },
+    { "pagina": "loja-lovealotter.html", "resultado": "aprovada", "achado": "historico curto da pagina explicado" },
+    { "pagina": "loja-paradise.html", "resultado": "aprovada com correcao", "achado": "metodo do proxy agora declara que as datas dos reviews nao foram conferidas" },
+    { "pagina": "loja-clevertoys.html", "resultado": "aprovada", "achado": "OBSERVAR justificado pela escala baixa, apesar do score 10" },
+    { "pagina": "anuncios.html", "resultado": "aprovada", "achado": "galeria com 10 criativos locais (7 capas da previa da Biblioteca), anatomia de 4, estilo do criativo, 5 anuncios de lancamento" },
+    { "pagina": "estrategia.html", "resultado": "aprovada com correcao", "achado": "frase do campeao corrigida" },
+    { "pagina": "plano-de-acao.html", "resultado": "aprovada com correcao", "achado": "frase do campeao corrigida; escada, P&L, investimento minimo e criterio de parada presentes" },
+    { "pagina": "catalogo-oferta.html", "resultado": "aprovada", "achado": "6 itens com copy e SEO; pagina 'Our Safety Promise' como diferencial" },
+    { "pagina": "benchmark-visual.html", "resultado": "aprovada", "achado": "4 concorrentes x home/PDP x desktop/celular + blueprint; responsivo validado" },
+    { "pagina": "identidade-visual.html", "resultado": "aprovada", "achado": "4 prompts de marca, 2 banners, 51 prompts por referencia cobrindo os 6 itens da escada" }
+  ]
+}

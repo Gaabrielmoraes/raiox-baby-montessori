@@ -1,0 +1,52 @@
+{
+  "product_handle": "busy-board-carry-bag",
+  "competitor": "Tibatoes",
+  "competitor_product_title": "Soft Quilted Baby Travel Bag",
+  "competitor_page": "https://tibatoes.com/products/soft-quilted-baby-travel-bag",
+  "competitor_json": "https://tibatoes.com/products/soft-quilted-baby-travel-bag.js",
+  "real_carousel_count": 5,
+  "downloaded_carousel_count": 5,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/1_1e004f8f-4dee-4df8-b3f5-61affb17654b.png?v=1775479790",
+      "alt": null,
+      "bytes": 749728
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/5_525f880f-696a-4f4b-90dc-54c610a4ffed.png?v=1775479790",
+      "alt": null,
+      "bytes": 371252
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/4_9ca2cce1-fa3a-43d4-9a9b-eb8985fecccf.png?v=1775479790",
+      "alt": null,
+      "bytes": 438796
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/3_1e9672f8-e54a-422b-b67d-511001192147.png?v=1775479790",
+      "alt": null,
+      "bytes": 426446
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/2_d94c1c78-edc5-4c24-bea9-49f63f066d71.png?v=1775479790",
+      "alt": null,
+      "bytes": 457347
+    }
+  ]
+}

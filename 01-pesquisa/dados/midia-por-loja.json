@@ -1,0 +1,11 @@
+{
+  "data": "2026-10-06",
+  "fonte": "conector Meta Ads: page_ids ACTIVE limit=1 e ALL limit=1 (contagem) + ACTIVE limit=50 (cadencia, ordenada por recencia)",
+  "lojas": {
+    "tibatoes.com":          { "ativos": 3100, "historico": 11300, "janela_amostra_h": 0.88, "rajada": true,  "titulos_unicos": 3,  "duplicacao": 16.7, "ads_dia": null, "unicos_semana": null, "campeao_dias": 55, "moedas": ["USD"], "obs": "rajada atual = oculos de natacao (loja virando generalista infantil); busy board foi o campeao por 55 dias via prelanders" },
+    "toddla.co":             { "ativos": 1059, "historico": 3392,  "janela_amostra_h": 31.5, "rajada": false, "titulos_unicos": 35, "duplicacao": 1.4,  "ads_dia": 38,   "unicos_semana": 187, "campeao_dias": 99, "moedas": ["AUD"], "obs": "3 paginas (marca + 2 perfis de mae); criativo estilo UGC com titulo em primeira pessoa" },
+    "lovealotter.com":       { "ativos": 261,  "historico": 275,   "janela_amostra_h": 315,  "rajada": false, "titulos_unicos": 9,  "duplicacao": 5.6,  "ads_dia": 3.8,  "unicos_semana": 4.8, "campeao_dias": 120, "moedas": ["USD"], "obs": "oferta '50% OFF - Today Only' em quase todo titulo" },
+    "montessoriparadise.com":{ "ativos": 119,  "historico": 338,   "janela_amostra_h": 128,  "rajada": false, "titulos_unicos": 8,  "duplicacao": 6.25, "ads_dia": 9.4,  "unicos_semana": 10.5, "campeao_dias": 15, "moedas": ["USD"], "obs": "publico avo; listas de presente (advertorial) antes do produto" },
+    "clevertoysbox.com":     { "ativos": 19,   "historico": 333,   "janela_amostra_h": 2160, "rajada": false, "titulos_unicos": 1,  "duplicacao": 19,   "ads_dia": 0.21, "unicos_semana": 0.08, "campeao_dias": 91, "moedas": ["CAD"], "obs": "anuncio de catalogo com 6 produtos no titulo; operacao enxuta que achou o vencedor e parou de testar" }
+  }
+}

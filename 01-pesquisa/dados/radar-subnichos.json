@@ -1,0 +1,22 @@
+{
+  "fonte": "MCP (conector Meta Ads) - ads_library_search, ACTIVE, limit=1, estimated_total_count",
+  "geradoEm": "2026-10-06",
+  "pedido": "Rode a skill raio-x no nicho de Baby & Parenting, nivel iniciante",
+  "nota": "Busca da Biblioteca e ampla: termos de varias palavras puxam ruido (romances, dramas, apps). Coluna 'ruido' = topo da amostra fora da categoria.",
+  "triagem_us": [
+    { "termo": "baby sleep", "pais": "US", "ativos": 85808, "ruido": true },
+    { "termo": "baby sleep sack", "pais": "US", "ativos": 1069, "ruido": true },
+    { "termo": "white noise machine baby", "pais": "US", "ativos": 1390, "ruido": true },
+    { "termo": "teething toys", "pais": "US", "ativos": 117, "ruido": true },
+    { "termo": "stroller organizer", "pais": "US", "ativos": 62, "ruido": true, "obs": "marketplace de usados" },
+    { "termo": "postpartum essentials", "pais": "US", "ativos": 484, "ruido": false, "obs": "mistura marcas grandes (Medela) e criadoras" },
+    { "termo": "montessori toys", "pais": "US", "ativos": 686, "ruido": false },
+    { "termo": "baby carrier", "pais": "US", "ativos": 3749, "ruido": false },
+    { "termo": "silicone baby feeding set", "pais": "US", "ativos": 243, "ruido": false }
+  ],
+  "matriz_radar": {
+    "montessori": { "US": 686, "CA": 365, "GB": 245, "AU": 407, "DE": 78, "FR": 45, "NL": 44, "ES": 33, "termos_locais": { "DE": "Montessori Spielzeug", "FR": "jouet montessori", "NL": "montessori speelgoed", "ES": "juguetes montessori" } },
+    "carregador_bebe": { "US": 3749, "CA": 1302, "GB": 1216, "AU": 1490, "DE": 302, "FR": 3502, "NL": 185, "ES": 111, "termos_locais": { "DE": "Babytrage", "FR": "porte bébé", "NL": "draagzak", "ES": "mochila portabebés" }, "ruido": { "FR": true, "ES": true } },
+    "alimentacao": { "US_silicone": 243, "US": 4464, "CA": 2311, "GB": 2122, "AU": 2238, "DE": 1, "FR": 567, "NL": 0, "ES": 10, "termos_locais": { "DE": "Babygeschirr", "FR": "vaisselle bébé", "NL": "baby servies", "ES": "vajilla bebé" }, "ruido": { "US": true, "CA": true, "GB": true, "AU": true, "FR": true }, "obs": "'baby feeding set' sem 'silicone' e quase so ruido (ficcao/drama); sinal real e o de 243 com 'silicone'" }
+  }
+}

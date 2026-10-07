@@ -1,0 +1,352 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-06T15:14:45.418Z",
+  "nota": "Busca da Biblioteca e ampla (casa palavras soltas): os angulos de 3 palavras voltam MAIORES que o termo amplo, e os INACTIVE vem inflados por ruido (romances, apps de leitura). Os ATIVOS ancorados em \"montessori\" tem lojistas reais no topo da amostra (Montessly, Sable and Stone, Micromates, Tibatoes, Montessori Generation). \"busy board\" e \"toddler learning toys\" sem a palavra montessori foram testados e descartados por ruido.",
+  "descartados": {
+    "busy board (sem montessori)": {
+      "US": [
+        18678,
+        3279305
+      ],
+      "obs": "topo da amostra = Novels Lover / Romantic Lover"
+    }
+  },
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "montessori toys",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 686
+    },
+    {
+      "id": 2,
+      "termo": "montessori toys",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 12632
+    },
+    {
+      "id": 3,
+      "termo": "montessori toys",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 365
+    },
+    {
+      "id": 4,
+      "termo": "montessori toys",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 12022
+    },
+    {
+      "id": 5,
+      "termo": "montessori toys",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 245
+    },
+    {
+      "id": 6,
+      "termo": "montessori toys",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 25171
+    },
+    {
+      "id": 7,
+      "termo": "montessori toys",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 407
+    },
+    {
+      "id": 8,
+      "termo": "montessori toys",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 10451
+    },
+    {
+      "id": 9,
+      "termo": "montessori toys",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 60
+    },
+    {
+      "id": 10,
+      "termo": "montessori toys",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 7080
+    },
+    {
+      "id": 11,
+      "termo": "montessori toys",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 58
+    },
+    {
+      "id": 12,
+      "termo": "montessori toys",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 5161
+    },
+    {
+      "id": 13,
+      "termo": "montessori toys",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 56
+    },
+    {
+      "id": 14,
+      "termo": "montessori toys",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 3896
+    },
+    {
+      "id": 15,
+      "termo": "montessori toys",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 68
+    },
+    {
+      "id": 16,
+      "termo": "montessori toys",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 5900
+    },
+    {
+      "id": 17,
+      "termo": "montessori busy board",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 696
+    },
+    {
+      "id": 18,
+      "termo": "montessori busy board",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 34226
+    },
+    {
+      "id": 19,
+      "termo": "montessori busy board",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 427
+    },
+    {
+      "id": 20,
+      "termo": "montessori busy board",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 30748
+    },
+    {
+      "id": 21,
+      "termo": "montessori busy board",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 517
+    },
+    {
+      "id": 22,
+      "termo": "montessori busy board",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 40732
+    },
+    {
+      "id": 23,
+      "termo": "montessori busy board",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 594
+    },
+    {
+      "id": 24,
+      "termo": "montessori busy board",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 30773
+    },
+    {
+      "id": 25,
+      "termo": "montessori busy board",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 92
+    },
+    {
+      "id": 26,
+      "termo": "montessori busy board",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 11028
+    },
+    {
+      "id": 27,
+      "termo": "montessori busy board",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 92
+    },
+    {
+      "id": 28,
+      "termo": "montessori busy board",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 7260
+    },
+    {
+      "id": 29,
+      "termo": "montessori busy board",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 85
+    },
+    {
+      "id": 30,
+      "termo": "montessori busy board",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 5152
+    },
+    {
+      "id": 31,
+      "termo": "montessori busy board",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 110
+    },
+    {
+      "id": 32,
+      "termo": "montessori busy board",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 7828
+    },
+    {
+      "id": 33,
+      "termo": "montessori toddler",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 939
+    },
+    {
+      "id": 34,
+      "termo": "montessori toddler",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 44368
+    },
+    {
+      "id": 35,
+      "termo": "montessori toddler",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 350
+    },
+    {
+      "id": 36,
+      "termo": "montessori toddler",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 40112
+    },
+    {
+      "id": 37,
+      "termo": "montessori toddler",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 330
+    },
+    {
+      "id": 38,
+      "termo": "montessori toddler",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 48841
+    },
+    {
+      "id": 39,
+      "termo": "montessori toddler",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 525
+    },
+    {
+      "id": 40,
+      "termo": "montessori toddler",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 38527
+    },
+    {
+      "id": 41,
+      "termo": "montessori toddler",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 60
+    },
+    {
+      "id": 42,
+      "termo": "montessori toddler",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 14869
+    },
+    {
+      "id": 43,
+      "termo": "montessori toddler",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 61
+    },
+    {
+      "id": 44,
+      "termo": "montessori toddler",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 10844
+    },
+    {
+      "id": 45,
+      "termo": "montessori toddler",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 63
+    },
+    {
+      "id": 46,
+      "termo": "montessori toddler",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 7779
+    },
+    {
+      "id": 47,
+      "termo": "montessori toddler",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 59
+    },
+    {
+      "id": 48,
+      "termo": "montessori toddler",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 12106
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-06T14:06:06.501Z",
+  "nota": "Busca ampla da Biblioteca: INACTIVE vem inflado por ruido (romances, dramas, series) que casa palavra solta. \"baby wrap\" e quase so ruido em todos os paises. Ativos de \"baby carrier\" no Big 4 tem lojistas reais no topo.",
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "baby carrier",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 3749
+    },
+    {
+      "id": 2,
+      "termo": "baby carrier",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 223917
+    },
+    {
+      "id": 3,
+      "termo": "baby carrier",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 1302
+    },
+    {
+      "id": 4,
+      "termo": "baby carrier",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 163477
+    },
+    {
+      "id": 5,
+      "termo": "baby carrier",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 1216
+    },
+    {
+      "id": 6,
+      "termo": "baby carrier",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 219709
+    },
+    {
+      "id": 7,
+      "termo": "baby carrier",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 1490
+    },
+    {
+      "id": 8,
+      "termo": "baby carrier",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 172605
+    },
+    {
+      "id": 9,
+      "termo": "baby carrier",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 381
+    },
+    {
+      "id": 10,
+      "termo": "baby carrier",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 65837
+    },
+    {
+      "id": 11,
+      "termo": "baby carrier",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 337
+    },
+    {
+      "id": 12,
+      "termo": "baby carrier",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 51638
+    },
+    {
+      "id": 13,
+      "termo": "baby carrier",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 307
+    },
+    {
+      "id": 14,
+      "termo": "baby carrier",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 49828
+    },
+    {
+      "id": 15,
+      "termo": "baby carrier",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 361
+    },
+    {
+      "id": 16,
+      "termo": "baby carrier",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 32421
+    },
+    {
+      "id": 17,
+      "termo": "baby wrap",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 7512
+    },
+    {
+      "id": 18,
+      "termo": "baby wrap",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 4616239
+    },
+    {
+      "id": 19,
+      "termo": "baby wrap",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 3401
+    },
+    {
+      "id": 20,
+      "termo": "baby wrap",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 2926497
+    },
+    {
+      "id": 21,
+      "termo": "baby wrap",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 3885
+    },
+    {
+      "id": 22,
+      "termo": "baby wrap",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 4021112
+    },
+    {
+      "id": 23,
+      "termo": "baby wrap",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 3616
+    },
+    {
+      "id": 24,
+      "termo": "baby wrap",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 2985962
+    },
+    {
+      "id": 25,
+      "termo": "baby wrap",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 2132
+    },
+    {
+      "id": 26,
+      "termo": "baby wrap",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 1381907
+    },
+    {
+      "id": 27,
+      "termo": "baby wrap",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 1669
+    },
+    {
+      "id": 28,
+      "termo": "baby wrap",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 1043622
+    },
+    {
+      "id": 29,
+      "termo": "baby wrap",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 1586
+    },
+    {
+      "id": 30,
+      "termo": "baby wrap",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 1066750
+    },
+    {
+      "id": 31,
+      "termo": "baby wrap",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 1256
+    },
+    {
+      "id": 32,
+      "termo": "baby wrap",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 712414
+    },
+    {
+      "id": 33,
+      "termo": "hip seat carrier",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 486
+    },
+    {
+      "id": 34,
+      "termo": "hip seat carrier",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 15543
+    },
+    {
+      "id": 35,
+      "termo": "hip seat carrier",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 105
+    },
+    {
+      "id": 36,
+      "termo": "hip seat carrier",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 11229
+    },
+    {
+      "id": 37,
+      "termo": "hip seat carrier",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 90
+    },
+    {
+      "id": 38,
+      "termo": "hip seat carrier",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 15317
+    },
+    {
+      "id": 39,
+      "termo": "hip seat carrier",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 124
+    },
+    {
+      "id": 40,
+      "termo": "hip seat carrier",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 11395
+    },
+    {
+      "id": 41,
+      "termo": "hip seat carrier",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 7
+    },
+    {
+      "id": 42,
+      "termo": "hip seat carrier",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 3600
+    },
+    {
+      "id": 43,
+      "termo": "hip seat carrier",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 9
+    },
+    {
+      "id": 44,
+      "termo": "hip seat carrier",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 2582
+    },
+    {
+      "id": 45,
+      "termo": "hip seat carrier",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 8
+    },
+    {
+      "id": 46,
+      "termo": "hip seat carrier",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 2602
+    },
+    {
+      "id": 47,
+      "termo": "hip seat carrier",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 17
+    },
+    {
+      "id": 48,
+      "termo": "hip seat carrier",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 1683
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fonte": "IRP Commerce - eCommerce Market Data (https://www.irpcommerce.com/en/gb/ecommercemarketdata.aspx)",
+  "mes_referencia": "agosto/2026",
+  "coletado_em": "2026-10-06",
+  "observacao": "Setor 'Baby & Child' publicado diretamente pelo IRP. AOV de GBP 855,57 e conversao de 0,57% refletem itens de ticket alto (carrinho, berco, cadeirinha) e NAO representam carregador de US$ 40-90; por isso a conversao do setor e usada como PISO conservador, e o setor Toys, Games & Collectables (1,64%, GBP 62,36) entra como teto de sensibilidade. Dados de lojas do Reino Unido (GBP), aplicados ao mercado alvo como ordem de grandeza, declarado.",
+  "setor_usado": "Baby & Child",
+  "conversao_pct": 0.57,
+  "aov_gbp": 855.57,
+  "cpa_pct_receita": 10.92,
+  "crescimento_vendas_yoy_pct": 47.39,
+  "sensibilidade": { "setor": "Toys, Games & Collectables", "conversao_pct": 1.64, "aov_gbp": 62.36, "cpa_pct_receita": 6.87 },
+  "cpm_cpc_meta_2026": { "ecommerce_geral_cpm": 10.42, "ecommerce_geral_cpc": 0.67, "todas_industrias_cpm": 14.19, "todas_industrias_cpc": 0.78, "fonte": "benchmarks publicos Meta 2026 citados em referencias/coleta.md (Bloco 11)" },
+  "cpc": null,
+  "cpc_obs": "IRP nao publica CPC nesta edicao; CPM/CPC vem do benchmark publico Meta 2026 de e-commerce geral."
+}

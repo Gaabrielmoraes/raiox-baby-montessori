@@ -1,0 +1,21 @@
+{"data":"2026-10-06","pais":"AU","fonte":"conector Meta Ads, AU, ACTIVE, limit=1 (estimated_total_count). Busca por palavra-chave sem aspas: casa palavras soltas, por isso termos com palavras comuns ('busy', 'board', 'book', 'free') trazem ruido (novela, drama, app de leitura).","termos":{
+"busy board":{"total":6767,"ruido":"alto: 1o resultado foi novela","google_pos":1,"bing_pos":1},
+"busy board for toddlers":{"total":825,"ruido":"alto: 1o resultado foi drama de IA","google_pos":1,"bing_pos":1},
+"busy board for 1 year old":{"total":1376,"ruido":"alto: 1o resultado foi drama","google_pos":3,"bing_pos":6},
+"best montessori busy board":{"total":59,"ruido":"baixo: rede de paginas chinesas vendendo busy board","google_pos":1,"bing_pos":1},
+"montessori busy board australia":{"total":4,"ruido":"baixo: Kids Australia (busy board)","google_pos":1,"bing_pos":1},
+"personalised busy board":{"total":2,"ruido":"alto: banco de salao","google_pos":6,"bing_pos":4},
+"montessori toys australia":{"total":18,"ruido":"baixo: Kids Australia","google_pos":1,"bing_pos":1},
+"montessori toys for 1 year old":{"total":25,"ruido":"baixo: toddla.co","google_pos":1,"bing_pos":2},
+"montessori toys for 2 year old":{"total":38,"ruido":"medio","google_pos":1,"bing_pos":1},
+"montessori toys for babies":{"total":40,"ruido":"baixo: toddla.co","google_pos":4,"bing_pos":2},
+"light switch busy board":{"total":41,"ruido":"baixo: Sable and Stone (painel de interruptores)","google_pos":1,"bing_pos":1},
+"toddler christmas gift":{"total":185,"ruido":"baixo: Montessori Generation","google_pos":null,"bing_pos":null},
+"busy book toddler":{"total":374,"ruido":"medio: advertorial de outra categoria no topo","google_pos":1,"bing_pos":1},
+"quiet book for toddlers":{"total":3001,"ruido":"alto: romance","google_pos":2,"bing_pos":2},
+"screen free toys for toddlers":{"total":263,"ruido":"alto: ficcao","google_pos":4,"bing_pos":1},
+"sensory board toddler":{"total":324,"ruido":"alto: drama","google_pos":1,"bing_pos":1},
+"educational toys for 1 year old":{"total":187,"ruido":"alto: drama","google_pos":3,"bing_pos":2},
+"travel toys for toddlers":{"total":182,"ruido":"alto: ficcao","google_pos":null,"bing_pos":null}
+},
+"candidatos_sem_contagem":["led light switch busy board","busy board australia","montessori toys australia sale","montessori busy board for 1 year old","montessori toys for 1 year old australia","educational toys for 1 year old australia","toys for 1 year old boy australia","busy toddler gift list","quiet books for babies","best busy board for 1 year old"]}

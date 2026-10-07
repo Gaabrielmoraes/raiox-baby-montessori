@@ -1,0 +1,35 @@
+{
+ "tibatoes.com": {
+  "anuncia": true,
+  "contagem": 200,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=tibatoes.com"
+ },
+ "toddla.co": {
+  "anuncia": true,
+  "contagem": 200,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=toddla.co"
+ },
+ "lovealotter.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=lovealotter.com"
+ },
+ "montessoriparadise.com": {
+  "anuncia": true,
+  "contagem": 8,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=montessoriparadise.com"
+ },
+ "clevertoysbox.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=clevertoysbox.com"
+ }
+}

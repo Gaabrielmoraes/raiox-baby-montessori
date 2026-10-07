@@ -1,0 +1,57 @@
+﻿
+== tibatoes.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== tibatoes.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== toddla.co | tentativa 1/5
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+   bloqueado pelo CloudFront. aguardando 3 min...
+
+== tibatoes.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+
+== toddla.co | tentativa 2/5
+
+== lovealotter.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== lovealotter.com | tentativa 2/5
+
+== toddla.co | tentativa 3/5
+
+== montessoriparadise.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+   bloqueado pelo CloudFront. aguardando 5 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+   bloqueado pelo CloudFront. aguardando 3 min...
+
+== lovealotter.com | tentativa 3/5
+
+== montessoriparadise.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== tinybusy.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== tinybusy.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== montessoriparadise.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+
+=== RESUMO ===
+tibatoes.com               -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+toddla.co                  -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+lovealotter.com            -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+montessoriparadise.com     -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+tinybusy.com               -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+
+== tinybusy.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...

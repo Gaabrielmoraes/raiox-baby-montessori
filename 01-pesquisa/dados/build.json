@@ -1,0 +1,970 @@
+{
+ "_comentario": "Contrato de execucao do /montar-loja gerado pelo /raio-x (Baby & Parenting, sub-nicho Montessori, Australia, nivel iniciante) em 2026-10-06. Precos em AUD com 2 casas, GST incluido. Custos de fornecedor sao ESTIMATIVA (nao medidos): confirmar com amostra e laudo de seguranca de brinquedo antes de anunciar.",
+ "marca": {
+  "nome": "Wattlebee",
+  "pais": "AU",
+  "moeda": "AUD",
+  "idioma": "en",
+  "paleta": {
+   "bg": "#FBF8F1",
+   "bg2": "#F3ECDD",
+   "primary": "#3F5E4E",
+   "accent": "#E3A82B",
+   "ink": "#2A2A26",
+   "good": "#5E7D6A",
+   "clay": "#C9704E",
+   "line": "#E4DCCB"
+  },
+  "fontes": {
+   "titulo": {
+    "nome": "Quicksand",
+    "handle": "quicksand_n7"
+   },
+   "corpo": {
+    "nome": "Nunito Sans",
+    "handle": "nunito_sans_n4"
+   }
+  },
+  "logo": null,
+  "announcement": "Free shipping across Australia over $99 · 30-day happy-play guarantee · Screwed-on parts, no button batteries"
+ },
+ "identidade_visual": {
+  "logos": [
+   {
+    "tipo": "wordmark",
+    "descricao": "logo principal tipografico, versao escura para fundo claro e versao clara para fundo escuro",
+    "prompt": "REFERENCE HIERARCHY: No external reference image. The brand name WATTLEBEE is the only source of truth for the lettering; spell it exactly W-A-T-T-L-E-B-E-E, nothing else.\n\nART DIRECTION: Rounded geometric sans-serif wordmark in the spirit of Quicksand bold, soft terminals, generous letter spacing. The two E's can share a tiny round wattle-flower dot above them, nothing more. Deliver two versions side by side: eucalyptus #3F5E4E on cream #FBF8F1, and cream on eucalyptus. Palette: cream #FBF8F1, sand #F3ECDD, eucalyptus green #3F5E4E, wattle yellow #E3A82B, clay #C9704E, ink #2A2A26. Warm, calm, natural-wood Australian feel; soft and friendly but never babyish, neon or cartoon-loud.\n\nBRAND FIDELITY: Wattlebee sells calm, screen-free Montessori busy boards and quiet-time toys to Australian parents and grandparents of children aged 1 to 3. The mark must read \"calm, hands-busy, safe\" at a glance and stay legible at 32px.\n\nBRAND AND LEGAL CLEANUP: No competitor names or marks (toddla, Tibatoes, Montessori Generation, Lovealotter, Montessori Paradise, Melissa & Doug), no generic stock bee clip-art copied from other brands, no watermark, no trademark symbols.\n\nQUALITY CONTROL: Vector-clean edges, correct spelling, balanced spacing, works in one colour. Square 2048x1024 canvas, transparent background version included."
+   },
+   {
+    "tipo": "icone_perfil",
+    "descricao": "icone/favicon: um pompom de flor de wattle (circulo amarelo felpudo) sobre um pequeno interruptor de luz arredondado",
+    "prompt": "REFERENCE HIERARCHY: No external reference image. The brand name WATTLEBEE is the only source of truth for the lettering; spell it exactly W-A-T-T-L-E-B-E-E, nothing else.\n\nART DIRECTION: Simple flat icon: a round wattle-flower pom-pom in wattle yellow #E3A82B sitting on top of a small rounded light-switch shape in eucalyptus #3F5E4E. Two colours max, readable at 32px. Palette: cream #FBF8F1, sand #F3ECDD, eucalyptus green #3F5E4E, wattle yellow #E3A82B, clay #C9704E, ink #2A2A26. Warm, calm, natural-wood Australian feel; soft and friendly but never babyish, neon or cartoon-loud.\n\nBRAND FIDELITY: Wattlebee sells calm, screen-free Montessori busy boards and quiet-time toys to Australian parents and grandparents of children aged 1 to 3. The mark must read \"calm, hands-busy, safe\" at a glance and stay legible at 32px.\n\nBRAND AND LEGAL CLEANUP: No competitor names or marks (toddla, Tibatoes, Montessori Generation, Lovealotter, Montessori Paradise, Melissa & Doug), no generic stock bee clip-art copied from other brands, no watermark, no trademark symbols.\n\nQUALITY CONTROL: Vector-clean edges, correct spelling, balanced spacing, works in one colour. 1024x1024px, centered, generous safe margin, also delivered on cream background."
+   },
+   {
+    "tipo": "capa_loja",
+    "descricao": "capa/banner da loja: maos de crianca no busy board sobre tapete de la, luz da manha, espaco para texto",
+    "prompt": "REFERENCE HIERARCHY: No external reference image. The brand name WATTLEBEE is the only source of truth for the lettering; spell it exactly W-A-T-T-L-E-B-E-E, nothing else.\n\nART DIRECTION: Photographic store cover with the wordmark small in the corner: close-up of a toddler's hands flicking switches on a natural wooden busy board on a cream wool rug, soft morning light, eucalyptus leaves in a vase at the edge. Palette: cream #FBF8F1, sand #F3ECDD, eucalyptus green #3F5E4E, wattle yellow #E3A82B, clay #C9704E, ink #2A2A26. Warm, calm, natural-wood Australian feel; soft and friendly but never babyish, neon or cartoon-loud.\n\nBRAND FIDELITY: Wattlebee sells calm, screen-free Montessori busy boards and quiet-time toys to Australian parents and grandparents of children aged 1 to 3. The mark must read \"calm, hands-busy, safe\" at a glance and stay legible at 32px.\n\nBRAND AND LEGAL CLEANUP: No competitor names or marks (toddla, Tibatoes, Montessori Generation, Lovealotter, Montessori Paradise, Melissa & Doug), no generic stock bee clip-art copied from other brands, no watermark, no trademark symbols.\n\nQUALITY CONTROL: Vector-clean edges, correct spelling, balanced spacing, works in one colour. 1920x700px, left half calm for headline. No text other than the wordmark."
+   },
+   {
+    "tipo": "capa_facebook",
+    "descricao": "capa de rede social: 3 fotos lado a lado (board em casa, busy book no carro, arvore de feltro no Natal)",
+    "prompt": "REFERENCE HIERARCHY: No external reference image. The brand name WATTLEBEE is the only source of truth for the lettering; spell it exactly W-A-T-T-L-E-B-E-E, nothing else.\n\nART DIRECTION: Social cover: three-panel photo strip: a toddler on the busy board at home, the felt busy book on a car seat, the felt Christmas tree on a wall; warm cream and eucalyptus tones, wordmark centered in a quiet cream band. Palette: cream #FBF8F1, sand #F3ECDD, eucalyptus green #3F5E4E, wattle yellow #E3A82B, clay #C9704E, ink #2A2A26. Warm, calm, natural-wood Australian feel; soft and friendly but never babyish, neon or cartoon-loud.\n\nBRAND FIDELITY: Wattlebee sells calm, screen-free Montessori busy boards and quiet-time toys to Australian parents and grandparents of children aged 1 to 3. The mark must read \"calm, hands-busy, safe\" at a glance and stay legible at 32px.\n\nBRAND AND LEGAL CLEANUP: No competitor names or marks (toddla, Tibatoes, Montessori Generation, Lovealotter, Montessori Paradise, Melissa & Doug), no generic stock bee clip-art copied from other brands, no watermark, no trademark symbols.\n\nQUALITY CONTROL: Vector-clean edges, correct spelling, balanced spacing, works in one colour. 1640x624px (Facebook cover safe area respected), also 1500x500 crop for X."
+   }
+  ]
+ },
+ "colecoes": [
+  {
+   "handle": "busy-boards",
+   "titulo": "Busy Boards",
+   "descricao_html": "<p>Wooden boards full of the switches, latches and zips toddlers reach for, made safe to play with.</p>"
+  },
+  {
+   "handle": "quiet-time-on-the-go",
+   "titulo": "Quiet Time On The Go",
+   "descricao_html": "<p>Silent, screen-free play for the car, the cafe and the plane.</p>"
+  },
+  {
+   "handle": "christmas-gifts",
+   "titulo": "Christmas Gifts",
+   "descricao_html": "<p>Gifts for 1 to 3 year olds that get played with long after Boxing Day.</p>"
+  }
+ ],
+ "produtos": [
+  {
+   "handle": "switch-busy-board",
+   "titulo": "Switch and Latch Busy Board",
+   "tipo": "Busy Board",
+   "tags": [
+    "Busy Board",
+    "Montessori",
+    "Bestseller",
+    "1-3 years"
+   ],
+   "colecao": "busy-boards",
+   "preco": "69.95",
+   "de": "119.95",
+   "sku": "WB-BB-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "The switches they are allowed to touch",
+    "lede": "A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.",
+    "proof": "",
+    "season": "Year-round · peak for Christmas and first birthdays"
+   },
+   "descricao_html": "<p>Your toddler already loves the light switch, the gate latch and the zip on your bag. This board puts all of them in one safe place, so they can flick, open and turn while you finally drink your coffee hot.</p><ul><li><b>Real switches, safe to flick.</b> Rocker and toggle switches light up small LEDs. Nothing touches mains power.</li><li><b>Nothing to pull off.</b> Every switch, latch and knob is screwed through the board, not glued. Tested by pulling hard before it leaves our hands.</li><li><b>Battery box with a screw.</b> 2 x AA batteries in a compartment closed with a screw. No button or coin batteries anywhere.</li><li><b>Smooth, rounded wood.</b> Sanded edges, water-based paint.</li><li><b>Made for 1 to 3 years.</b> Builds fine motor skills: pinch, twist, push and slide.</li><li><b>Travel size.</b> Fits a nappy bag for cafes, flights and car trips.</li></ul><p>Always supervise play. Not suitable for children under 12 months.</p>",
+   "seo_titulo": "Montessori Busy Board with Light Switches for Toddlers | Wattlebee",
+   "seo_descricao": "Wooden Montessori busy board with LED light switches, latches and a zip for 1 to 3 year olds. Screwed-on parts, screw-closed AA battery box. Free shipping over $99 in Australia.",
+   "imagens": []
+  },
+  {
+   "handle": "quiet-time-activity-cards",
+   "titulo": "Quiet Time Activity Cards (printable)",
+   "tipo": "Digital Download",
+   "tags": [
+    "Printable",
+    "Add-on",
+    "Screen-free"
+   ],
+   "colecao": "quiet-time-on-the-go",
+   "preco": "9.95",
+   "de": "19.95",
+   "sku": "WB-DG-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "30 screen-free ideas, ready to print",
+    "lede": "A printable pack of 30 short activities that use the busy board and things you already have at home, sorted by age and by how much time you need.",
+    "proof": "",
+    "season": "Year-round · school holidays"
+   },
+   "descricao_html": "<p>For the days when you need twenty quiet minutes and your ideas have run out.</p><ul><li><b>30 activity cards</b> grouped by age (12 to 18 months, 18 to 24 months, 2 to 3 years).</li><li><b>Sorted by time:</b> 5, 10 and 20 minute ideas.</li><li><b>Uses what you have:</b> the busy board, pegs, a muffin tin, pom poms.</li><li><b>Instant download</b> (PDF, A4). Print at home as many times as you like.</li></ul><p>This is a digital product: nothing is shipped.</p>",
+   "seo_titulo": "Printable Toddler Quiet Time Activity Cards (PDF) | Wattlebee",
+   "seo_descricao": "30 printable screen-free activity cards for toddlers aged 1 to 3, sorted by age and time. Instant PDF download.",
+   "imagens": []
+  },
+  {
+   "handle": "travel-busy-book",
+   "titulo": "Travel Busy Book",
+   "tipo": "Busy Book",
+   "tags": [
+    "Busy Book",
+    "Travel",
+    "Upsell"
+   ],
+   "colecao": "quiet-time-on-the-go",
+   "preco": "39.95",
+   "de": "59.95",
+   "sku": "WB-BK-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "Quiet hands in the car, the cafe and the plane",
+    "lede": "A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.",
+    "proof": "",
+    "season": "Year-round · peak before holidays and flights"
+   },
+   "descricao_html": "<p>The busy board stays home. This one goes everywhere.</p><ul><li><b>8 felt pages</b> of real-life skills: button, buckle, zip, lace, match.</li><li><b>No batteries, no noise.</b> Safe for a sleeping sibling and a quiet cafe.</li><li><b>Sewn-on pieces</b> with short tethers on every loose shape.</li><li><b>Light and soft</b> for car seats and planes.</li></ul><p>Always supervise play. For ages 18 months and up.</p>",
+   "seo_titulo": "Felt Travel Busy Book for Toddlers, Quiet and Screen-Free | Wattlebee",
+   "seo_descricao": "Soft felt busy book for toddlers with buttons, buckles, zips and laces. Silent, battery-free and light for car trips and flights.",
+   "imagens": []
+  },
+  {
+   "handle": "quiet-time-kit",
+   "titulo": "Quiet Time Kit",
+   "tipo": "Bundle",
+   "tags": [
+    "Bundle",
+    "Best value",
+    "Gift"
+   ],
+   "colecao": "christmas-gifts",
+   "preco": "99.95",
+   "de": "124.85",
+   "sku": "WB-KT-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "The gift they actually play with",
+    "lede": "The Switch and Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.",
+    "proof": "",
+    "season": "Christmas · first birthday · grandparent gifts"
+   },
+   "descricao_html": "<p>The set our customers end up buying piece by piece, for less, and ready to wrap.</p><ul><li><b>Switch and Latch Busy Board</b> ($69.95)</li><li><b>Travel Busy Book</b> ($39.95)</li><li><b>Busy Board Carry Bag</b> ($14.95)</li><li><b>Free shipping</b> anywhere in Australia.</li></ul><p>A gift note can be added at checkout.</p>",
+   "seo_titulo": "Montessori Toddler Gift Set: Busy Board, Busy Book and Bag | Wattlebee",
+   "seo_descricao": "Montessori gift set for 1 to 3 year olds: wooden busy board, felt travel busy book and carry bag. Free shipping in Australia.",
+   "imagens": []
+  },
+  {
+   "handle": "felt-christmas-tree",
+   "titulo": "Toddler Felt Christmas Tree",
+   "tipo": "Seasonal",
+   "tags": [
+    "Christmas",
+    "Seasonal",
+    "Gift"
+   ],
+   "colecao": "christmas-gifts",
+   "preco": "44.95",
+   "de": "69.95",
+   "sku": "WB-XM-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "The tree they are allowed to pull apart",
+    "lede": "A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.",
+    "proof": "",
+    "season": "November and December only"
+   },
+   "descricao_html": "<p>Stop guarding the real tree. Give them one that is theirs.</p><ul><li><b>Felt tree</b> about 1 metre tall, hangs on the wall or a door.</li><li><b>30 soft ornaments</b> with hook-and-loop backs: stars, baubles, presents and a topper.</li><li><b>No glass, no hooks, no glitter.</b></li><li><b>Folds flat</b> to store for next year.</li></ul><p>Always supervise play. For ages 18 months and up.</p>",
+   "seo_titulo": "Toddler Felt Christmas Tree with Velcro Ornaments | Wattlebee",
+   "seo_descricao": "Felt Christmas tree for toddlers with 30 hook-and-loop ornaments. Safe, soft, no glass or glitter. Hangs on the wall and folds flat.",
+   "imagens": []
+  },
+  {
+   "handle": "busy-board-carry-bag",
+   "titulo": "Busy Board Carry Bag",
+   "tipo": "Add-on",
+   "tags": [
+    "Add-on",
+    "Travel"
+   ],
+   "colecao": "quiet-time-on-the-go",
+   "preco": "14.95",
+   "de": "24.95",
+   "sku": "WB-AD-01",
+   "status": "active",
+   "pdp": {
+    "eyebrow": "Grab it on the way out",
+    "lede": "A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.",
+    "proof": "",
+    "season": "Year-round"
+   },
+   "descricao_html": "<p>Keeps the board from scratching everything else in the nappy bag.</p><ul><li><b>Fits</b> the Switch and Latch Busy Board and the Travel Busy Book.</li><li><b>Padded quilted cotton</b> with a zip.</li><li><b>Pram handle</b> strap.</li></ul>",
+   "seo_titulo": "Padded Carry Bag for Busy Board and Busy Book | Wattlebee",
+   "seo_descricao": "Padded quilted carry bag that fits a toddler busy board and busy book, with a pram handle strap.",
+   "imagens": []
+  }
+ ],
+ "addons": [
+  {
+   "handle": "quiet-time-activity-cards",
+   "titulo": "Quiet Time Activity Cards (printable)",
+   "preco": "9.95",
+   "sku": "WB-DG-01"
+  },
+  {
+   "handle": "busy-board-carry-bag",
+   "titulo": "Busy Board Carry Bag",
+   "preco": "14.95",
+   "sku": "WB-AD-01"
+  }
+ ],
+ "bump_pdp": {
+  "handle": "quiet-time-activity-cards"
+ },
+ "upsell_carrinho": {
+  "handle": "travel-busy-book"
+ },
+ "menu": [
+  {
+   "tipo": "frontpage",
+   "titulo": "Home"
+  },
+  {
+   "tipo": "collection",
+   "titulo": "Busy Boards",
+   "handle": "busy-boards"
+  },
+  {
+   "tipo": "collection",
+   "titulo": "Quiet Time On The Go",
+   "handle": "quiet-time-on-the-go"
+  },
+  {
+   "tipo": "collection",
+   "titulo": "Christmas Gifts",
+   "handle": "christmas-gifts"
+  },
+  {
+   "tipo": "page",
+   "titulo": "Safety",
+   "handle": "safety"
+  }
+ ],
+ "paginas": [
+  {
+   "handle": "contact",
+   "titulo": "Contact",
+   "corpo_html": "<p>Questions about an order, a gift or safety? Email support@wattlebee.com.au (placeholder: replace with the real address). We reply within 1 business day, Monday to Friday, Australian Eastern time.</p><p>Please include your order number so we can help faster.</p>"
+  },
+  {
+   "handle": "shipping-policy",
+   "titulo": "Shipping Policy",
+   "corpo_html": "<p>We ship across Australia. Orders are processed in 1 to 2 business days and delivered in 6 to 12 business days after dispatch, with tracking sent by email.</p><p>Shipping is free on orders over $99 (including every Quiet Time Kit). Orders under $99 pay a flat $9.95. Prices include GST.</p><p>Ordering for Christmas? Place your order by 1 December for delivery before Christmas Day. If your tracking shows no movement for 10 business days, contact us and we will reship or refund.</p>"
+  },
+  {
+   "handle": "refund-policy",
+   "titulo": "Returns & Refunds",
+   "corpo_html": "<p><b>30-day happy-play guarantee.</b> If your little one does not love it, contact us within 30 days of delivery for a refund of the product price.</p><p>Damaged or faulty items are replaced at no cost. Digital downloads (printable cards) cannot be returned once downloaded.</p><p>Your rights under the Australian Consumer Law are not affected by this policy. To start a return, email us with your order number.</p>"
+  },
+  {
+   "handle": "safety",
+   "titulo": "Our Safety Promise",
+   "corpo_html": "<p>Every Wattlebee toy is chosen for children aged 1 to 3, so safety comes first.</p><ul><li><b>Screwed-on parts.</b> Switches, latches and knobs are screwed through the board, not glued. We pull-test every batch before it ships.</li><li><b>No button or coin batteries.</b> Our light-up boards use 2 x AA batteries in a compartment closed with a screw.</li><li><b>Tested to toy standards.</b> We only sell items from suppliers who provide a toy safety test report for small parts and materials (AS/NZS ISO 8124 or equivalent).</li><li><b>Supervise play.</b> Our toys are made for supervised play and are not suitable for children under 12 months unless stated.</li></ul><p>Found a problem? Email us right away and stop using the toy.</p>"
+  },
+  {
+   "handle": "privacy-policy",
+   "titulo": "Privacy Policy",
+   "corpo_html": "<p>Wattlebee collects only the information needed to process and deliver your order (name, email, delivery address, payment confirmation from our payment processor) and to send order updates. If you subscribe to emails, we use your email to send offers; you can unsubscribe anytime.</p><p>We do not sell your personal information. We use cookies and pixels (such as Meta) to measure ads and improve the store, in line with the Australian Privacy Principles. Contact support@wattlebee.com.au to access or delete your data.</p>"
+  },
+  {
+   "handle": "terms-of-service",
+   "titulo": "Terms of Service",
+   "corpo_html": "<p>By using wattlebee.com.au and buying from us you agree to these terms. Prices are in Australian dollars and include GST; the price at checkout is final. Product images are illustrative; wood grain and colours may vary slightly.</p><p>Our toys are designed for supervised play. Check the toy before each use and stop using it if any part is loose or damaged.</p><p>Returns follow our Returns &amp; Refunds policy and the Australian Consumer Law. These terms are governed by the laws of the Australian state where Wattlebee is registered.</p>"
+  }
+ ],
+ "tema": {
+  "settings": {}
+ },
+ "imagens_pdp": {
+  "fonte": "auditoria_carrossel_concorrentes",
+  "concorrentes_auditados": [
+   {
+    "loja": "Tibatoes",
+    "dominio": "tibatoes.com",
+    "n_imagens": 4,
+    "observacao": "Montessori Switch Board $50,60: 4 imagens, still do painel + crianca brincando; vende por paginas de pre-venda (TDAH, autismo, viagem)"
+   },
+   {
+    "loja": "toddla.co",
+    "dominio": "toddla.co",
+    "n_imagens": 16,
+    "observacao": "Toddla Montessori Busy Board $39,99: 16 imagens, crianca real brincando, closes das pecas, foto na mala de viagem"
+   },
+   {
+    "loja": "Lovealotter",
+    "dominio": "lovealotter.com",
+    "n_imagens": 13,
+    "observacao": "LED Busy Switch Board $40,98: 13 imagens, interruptores acesos, crianca apertando"
+   },
+   {
+    "loja": "Montessori Paradise",
+    "dominio": "montessoriparadise.com",
+    "n_imagens": 4,
+    "observacao": "Discovery Box $36,97: 4 imagens, still em fundo claro"
+   },
+   {
+    "loja": "Clever Toys Box",
+    "dominio": "clevertoysbox.com",
+    "n_imagens": 7,
+    "observacao": "Montessori Busy Bees $39,97: 7 imagens, still + crianca"
+   },
+   {
+    "produto_handle": "switch-busy-board",
+    "concorrente": "Lovealotter",
+    "dominio": "lovealotter.com",
+    "produto_concorrente_handle": "montessori-wooden-led-busy-board",
+    "url_pdp": "https://lovealotter.com/products/montessori-wooden-led-busy-board",
+    "n_imagens": 13,
+    "observacao": "busy board de interruptores com LED $40,98 (de $80,98), anuncio no ar ha ~120 dias"
+   },
+   {
+    "produto_handle": "quiet-time-activity-cards",
+    "concorrente": "Tibatoes",
+    "dominio": "tibatoes.com",
+    "produto_concorrente_handle": "screen-free-advent-calendar-printable-pdf",
+    "url_pdp": "https://tibatoes.com/products/screen-free-advent-calendar-printable-pdf",
+    "n_imagens": 1,
+    "observacao": "PDF imprimivel $9,95 (de $19,95): o precedente real do bump digital (carrossel real de 1 imagem)"
+   },
+   {
+    "produto_handle": "travel-busy-book",
+    "concorrente": "toddla.co",
+    "dominio": "toddla.co",
+    "produto_concorrente_handle": "toddla-deer-busy-book",
+    "url_pdp": "https://toddla.co/products/toddla-deer-busy-book",
+    "n_imagens": 12,
+    "observacao": "busy book de feltro $49,99 (de $59,99)"
+   },
+   {
+    "produto_handle": "quiet-time-kit",
+    "concorrente": "toddla.co",
+    "dominio": "toddla.co",
+    "produto_concorrente_handle": "starter-montessori-bundle",
+    "url_pdp": "https://toddla.co/products/starter-montessori-bundle",
+    "n_imagens": 11,
+    "observacao": "bundle $99,99 (de $119,99)"
+   },
+   {
+    "produto_handle": "felt-christmas-tree",
+    "concorrente": "toddla.co",
+    "dominio": "toddla.co",
+    "produto_concorrente_handle": "toddla-montessori-christmas-tree",
+    "url_pdp": "https://toddla.co/products/toddla-montessori-christmas-tree",
+    "n_imagens": 10,
+    "observacao": "arvore de feltro $39,99, anunciada agora com \"The tree they're allowed to pull\""
+   },
+   {
+    "produto_handle": "busy-board-carry-bag",
+    "concorrente": "Tibatoes",
+    "dominio": "tibatoes.com",
+    "produto_concorrente_handle": "soft-quilted-baby-travel-bag",
+    "url_pdp": "https://tibatoes.com/products/soft-quilted-baby-travel-bag",
+    "n_imagens": 5,
+    "observacao": "bolsa acolchoada $24,95"
+   }
+  ],
+  "faixa_nicho": {
+   "min": 1,
+   "max": 16
+  },
+  "achado": "As lojas do nicho mostram o busy board em still e com a crianca brincando, e algumas mostram a crianca concentrada, mas nenhuma prova em imagem a seguranca (a peca que nao sai quando puxada, a tampa da pilha parafusada), justamente a objecao numero 1 da Voz do Mercado depois do recall de 276 mil busy boards na Amazon. Essa imagem de prova e a brecha visual, junto com a cena \"cafe ainda quente\" que traduz o desejo real do comprador (20 minutos de sossego sem tela).",
+  "sequencia": [
+   {
+    "posicao": 0,
+    "tipo": "banner_home",
+    "status": "nova",
+    "formato": "banner_desktop",
+    "produto_handle": "switch-busy-board",
+    "descricao": "hero da home: crianca de ~18 meses no chao da sala apertando os interruptores do busy board; ao fundo, fora de foco, a mae tomando cafe na bancada",
+    "referencia_cena_arquivo": null,
+    "prompt": "CONTEXTO: commercial e-commerce photography for an Australian toy-store home banner.\n\nREFERENCIA A ANEXAR: CENA = carousel images in 'Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/' (scene type only). PRODUTO = REFERENCIA PENDENTE until the Wattlebee sample is photographed.\n\nA PERSONA: a toddler of about 18 months in a plain cream knit, sitting on a wool rug; in the soft-focus background, a mother in her early 30s in linen, leaning on a timber kitchen bench with a coffee mug, relaxed.\n\nA CENA: Australian living room with timber floors and morning light through a big window, the child concentrated on flicking a light switch on the board, low camera at child height, 50mm.\n\nMUNDO DA MARCA: cream, sand, eucalyptus green and a touch of wattle yellow as real materials (rug, cushion, plant), not graphics.\n\nZONA DE TEXTO: keep the left third calm for headline and button.\n\nFOTORREALISMO + FORMATO: natural child skin and hands, correct proportions, no text in image. 1920x1080px."
+   },
+   {
+    "posicao": 0,
+    "tipo": "banner_home",
+    "status": "nova",
+    "formato": "banner_mobile",
+    "produto_handle": "switch-busy-board",
+    "descricao": "mesmo hero recomposto na vertical (nao e o desktop cortado)",
+    "referencia_cena_arquivo": null,
+    "prompt": "CONTEXTO: commercial e-commerce photography, vertical mobile home banner.\n\nREFERENCIA A ANEXAR: same CENA and PRODUTO references as the desktop banner; use the approved desktop banner as identity reference for the child, the mother and the room.\n\nA PERSONA: the same toddler and mother from the desktop banner.\n\nA CENA: recomposed vertically, top-down angle over the board on the rug, small hands on the switches, the mother's coffee mug visible at the top edge.\n\nMUNDO DA MARCA: cream, sand, eucalyptus, morning light.\n\nZONA DE TEXTO: reserve the lower third for headline and button.\n\nFOTORREALISMO + FORMATO: natural hands, correct proportions, no text. 1080x1350px."
+   },
+   {
+    "posicao": 1,
+    "tipo": "still_produto",
+    "status": "nova",
+    "produto_handle": "switch-busy-board",
+    "descricao": "busy board em fundo creme, foto principal da PDP, interruptores acesos",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['switch-busy-board']"
+   },
+   {
+    "posicao": 2,
+    "tipo": "prova_seguranca",
+    "status": "nova",
+    "produto_handle": "switch-busy-board",
+    "descricao": "prova de seguranca: mao adulta puxando com forca um interruptor que nao sai + close do parafuso da tampa da pilha (a prova que nenhum concorrente mostra)",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['switch-busy-board']; cena: split image, left an adult hand pulling hard on a switch that stays fixed, right a close-up of the screw on the AA battery cover"
+   },
+   {
+    "posicao": 3,
+    "tipo": "prova_sossego",
+    "status": "nova",
+    "produto_handle": "switch-busy-board",
+    "descricao": "cena \"cafe ainda quente\": crianca concentrada no board enquanto a mae cozinha ao fundo (o desejo real do comprador)",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['switch-busy-board']"
+   },
+   {
+    "posicao": 4,
+    "tipo": "still_produto",
+    "status": "nova",
+    "produto_handle": "travel-busy-book",
+    "descricao": "busy book de feltro aberto mostrando 2 paginas",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['travel-busy-book']"
+   },
+   {
+    "posicao": 5,
+    "tipo": "lifestyle_kit",
+    "status": "nova",
+    "produto_handle": "quiet-time-kit",
+    "descricao": "kit completo (board + book + bolsa) embrulhado para presente sob uma arvore de Natal australiana",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['quiet-time-kit']"
+   },
+   {
+    "posicao": 6,
+    "tipo": "lifestyle",
+    "status": "nova",
+    "produto_handle": "felt-christmas-tree",
+    "descricao": "arvore de feltro na parede, crianca colocando um enfeite, arvore de verdade ao fundo intocada",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['felt-christmas-tree']"
+   },
+   {
+    "posicao": 7,
+    "tipo": "mockup_digital",
+    "status": "nova",
+    "produto_handle": "quiet-time-activity-cards",
+    "descricao": "mockup dos cartoes impressos sobre a mesa ao lado do busy board",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['quiet-time-activity-cards']"
+   },
+   {
+    "posicao": 8,
+    "tipo": "still_produto",
+    "status": "nova",
+    "produto_handle": "busy-board-carry-bag",
+    "descricao": "bolsa acolchoada pendurada no carrinho com o board dentro",
+    "referencia_cena_arquivo": null,
+    "prompt": "ver build.referencias_produtos['busy-board-carry-bag']"
+   }
+  ],
+  "conferencia_produto": []
+ },
+ "referencias_produtos": [
+  {
+   "product_handle": "switch-busy-board",
+   "product_name": "Switch & Latch Busy Board",
+   "competitor": "Lovealotter",
+   "competitor_page": "https://lovealotter.com/products/montessori-wooden-led-busy-board",
+   "real_carousel_count": 13,
+   "downloaded_carousel_count": 12,
+   "amostrado": true,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 12",
+     "description": "Competitor carousel image 1 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-01.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142323.png?v=1763575728",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 1 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 2,
+     "type": "Competitor carousel image 2 of 12",
+     "description": "Competitor carousel image 2 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-02.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233810.png?v=1763743406",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 2 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 3,
+     "type": "Competitor carousel image 3 of 12",
+     "description": "Competitor carousel image 3 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-03.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233620.png?v=1763743406",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 3 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 4,
+     "type": "Competitor carousel image 4 of 12",
+     "description": "Competitor carousel image 4 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-04.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142331.png?v=1763743406",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 4 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 5,
+     "type": "Competitor carousel image 5 of 12",
+     "description": "Competitor carousel image 5 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-05.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/busy_board_2.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 5 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 6,
+     "type": "Competitor carousel image 6 of 12",
+     "description": "Competitor carousel image 6 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-06.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142338.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 6 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 6 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 7,
+     "type": "Competitor carousel image 7 of 12",
+     "description": "Competitor carousel image 7 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-07.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/busy_board_10.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 7 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 7 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 8,
+     "type": "Competitor carousel image 8 of 12",
+     "description": "Competitor carousel image 8 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-08.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/WOODEN_BUSY_BOARD_7.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 8 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 8 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 9,
+     "type": "Competitor carousel image 9 of 12",
+     "description": "Competitor carousel image 9 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-09.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142344.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 9 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 9 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 9 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 10,
+     "type": "Competitor carousel image 10 of 12",
+     "description": "Competitor carousel image 10 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-10.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142354.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 10 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 10 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 10 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 11,
+     "type": "Competitor carousel image 11 of 12",
+     "description": "Competitor carousel image 11 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-11.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233822.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 11 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 11 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 11 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 12,
+     "type": "Competitor carousel image 12 of 12",
+     "description": "Competitor carousel image 12 of 12, from the Lovealotter PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/switch-busy-board/carrossel-concorrente/referencia-12.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/WOODEN_BUSY_BOARD_4.png?v=1763884544",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 12 of 12 in the Switch & Latch Busy Board carousel (scene: \"Competitor carousel image 12 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Switch & Latch Busy Board Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 12 of 12\", from Lovealotter). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Switch & Latch Busy Board silhouette, materials, hardware, seams, colors and proportions shown in the separate Switch & Latch Busy Board Product Master photographs. Show A solid wooden board of light switches, latches, a zip and a dial: everything your toddler reaches for around the house, made safe to flick a hundred times.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  },
+  {
+   "product_handle": "quiet-time-activity-cards",
+   "product_name": "Quiet Time Activity Cards (printable)",
+   "competitor": "Tibatoes",
+   "competitor_page": "https://tibatoes.com/products/screen-free-advent-calendar-printable-pdf",
+   "real_carousel_count": 1,
+   "downloaded_carousel_count": 1,
+   "amostrado": false,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 1",
+     "description": "Competitor carousel image 1 of 1, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-activity-cards/carrossel-concorrente/referencia-01.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/screen-free-advent-calendar-listing.png?v=1789202390",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 1 in the Quiet Time Activity Cards (printable) carousel (scene: \"Competitor carousel image 1 of 1\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Activity Cards (printable) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 1\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Activity Cards (printable) silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Activity Cards (printable) Product Master photographs. Show A printable pack of 30 short activities that use the busy board and things you already have at home, sorted by age and by how much time you need.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  },
+  {
+   "product_handle": "travel-busy-book",
+   "product_name": "Travel Busy Book",
+   "competitor": "toddla.co",
+   "competitor_page": "https://toddla.co/products/toddla-deer-busy-book",
+   "real_carousel_count": 12,
+   "downloaded_carousel_count": 12,
+   "amostrado": false,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 12",
+     "description": "Competitor carousel image 1 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-01.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Main.png?v=1785597594",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 1 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 2,
+     "type": "Competitor carousel image 2 of 12",
+     "description": "Competitor carousel image 2 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-02.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Depth.png?v=1785597589",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 2 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 3,
+     "type": "Competitor carousel image 3 of 12",
+     "description": "Competitor carousel image 3 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-03.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_8_Pages.jpg?v=1785597628",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 3 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 4,
+     "type": "Competitor carousel image 4 of 12",
+     "description": "Competitor carousel image 4 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-04.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Open.png?v=1785597585",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 4 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 5,
+     "type": "Competitor carousel image 5 of 12",
+     "description": "Competitor carousel image 5 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-05.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Benefit.jpg?v=1785597623",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 5 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 6,
+     "type": "Competitor carousel image 6 of 12",
+     "description": "Competitor carousel image 6 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-06.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Car.jpg?v=1785597629",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 6 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 6 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 7,
+     "type": "Competitor carousel image 7 of 12",
+     "description": "Competitor carousel image 7 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-07.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Closeups.jpg?v=1785597626",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 7 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 7 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 8,
+     "type": "Competitor carousel image 8 of 12",
+     "description": "Competitor carousel image 8 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-08.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Flights.jpg?v=1785597630",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 8 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 8 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 9,
+     "type": "Competitor carousel image 9 of 12",
+     "description": "Competitor carousel image 9 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-09.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Removable_Pieces.jpg?v=1785597628",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 9 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 9 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 9 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 10,
+     "type": "Competitor carousel image 10 of 12",
+     "description": "Competitor carousel image 10 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-10.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Home.png?v=1785597605",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 10 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 10 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 10 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 11,
+     "type": "Competitor carousel image 11 of 12",
+     "description": "Competitor carousel image 11 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-11.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Portable.jpg?v=1785597627",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 11 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 11 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 11 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 12,
+     "type": "Competitor carousel image 12 of 12",
+     "description": "Competitor carousel image 12 of 12, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-12.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Perfect_Gift.jpg?v=1785597629",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 12 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 12 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 12 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  },
+  {
+   "product_handle": "quiet-time-kit",
+   "product_name": "Quiet Time Kit",
+   "competitor": "toddla.co",
+   "competitor_page": "https://toddla.co/products/starter-montessori-bundle",
+   "real_carousel_count": 11,
+   "downloaded_carousel_count": 11,
+   "amostrado": false,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 11",
+     "description": "Competitor carousel image 1 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-01.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Starter_Montessori_Bundle.png?v=1778154676",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 1 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 2,
+     "type": "Competitor carousel image 2 of 11",
+     "description": "Competitor carousel image 2 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-02.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori_Busy_Board_Blue_Plus.png?v=1768952139",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 2 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 3,
+     "type": "Competitor carousel image 3 of 11",
+     "description": "Competitor carousel image 3 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-03.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Car_Rides.png?v=1768952139",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 3 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 4,
+     "type": "Competitor carousel image 4 of 11",
+     "description": "Competitor carousel image 4 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-04.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Independent_Play.png?v=1768952139",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 4 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 5,
+     "type": "Competitor carousel image 5 of 11",
+     "description": "Competitor carousel image 5 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-05.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori-Busy-Board-Gift-Closeup-Blue.png?v=1768952139",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 5 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 6,
+     "type": "Competitor carousel image 6 of 11",
+     "description": "Competitor carousel image 6 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-06.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Main.png?v=1763079889",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 6 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 6 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 7,
+     "type": "Competitor carousel image 7 of 11",
+     "description": "Competitor carousel image 7 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-07.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Car.png?v=1763079889",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 7 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 7 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 8,
+     "type": "Competitor carousel image 8 of 11",
+     "description": "Competitor carousel image 8 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-08.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Lifestyle.png?v=1730330958",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 8 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 8 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 9,
+     "type": "Competitor carousel image 9 of 11",
+     "description": "Competitor carousel image 9 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-09.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeMain.png?v=1730148530",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 9 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 9 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 9 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 10,
+     "type": "Competitor carousel image 10 of 11",
+     "description": "Competitor carousel image 10 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-10.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCube6-in-1.png?v=1730148530",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 10 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 10 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 10 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 11,
+     "type": "Competitor carousel image 11 of 11",
+     "description": "Competitor carousel image 11 of 11, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/quiet-time-kit/carrossel-concorrente/referencia-11.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeTravel.jpg?v=1730148530",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 11 of 11 in the Quiet Time Kit carousel (scene: \"Competitor carousel image 11 of 11\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Quiet Time Kit Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 11 of 11\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Quiet Time Kit silhouette, materials, hardware, seams, colors and proportions shown in the separate Quiet Time Kit Product Master photographs. Show The Switch & Latch Busy Board, the Travel Busy Book and the Carry Bag in one box, with free shipping across Australia.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  },
+  {
+   "product_handle": "felt-christmas-tree",
+   "product_name": "Toddler Felt Christmas Tree",
+   "competitor": "toddla.co",
+   "competitor_page": "https://toddla.co/products/toddla-montessori-christmas-tree",
+   "real_carousel_count": 10,
+   "downloaded_carousel_count": 10,
+   "amostrado": false,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 10",
+     "description": "Competitor carousel image 1 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-01.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Main.jpg?v=1791314679",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 1 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 2,
+     "type": "Competitor carousel image 2 of 10",
+     "description": "Competitor carousel image 2 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-02.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_0e87940b-01fd-42ee-b4ad-8a26f9b526b1.jpg?v=1791316617",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 2 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 3,
+     "type": "Competitor carousel image 3 of 10",
+     "description": "Competitor carousel image 3 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-03.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Dark.jpg?v=1791314792",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 3 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 4,
+     "type": "Competitor carousel image 4 of 10",
+     "description": "Competitor carousel image 4 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-04.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_2_b8e84e08-daff-4c23-a5b4-bb90a8cbc97d.png?v=1791316580",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 4 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 5,
+     "type": "Competitor carousel image 5 of 10",
+     "description": "Competitor carousel image 5 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-05.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating.jpg?v=1791315008",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 5 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 6,
+     "type": "Competitor carousel image 6 of 10",
+     "description": "Competitor carousel image 6 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-06.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating_c99b5a75-ea9d-4536-9eb7-c5258530558a.jpg?v=1791315087",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 6 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 6 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 7,
+     "type": "Competitor carousel image 7 of 10",
+     "description": "Competitor carousel image 7 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-07.jpg",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Closeup.jpg?v=1791314792",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 7 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 7 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 8,
+     "type": "Competitor carousel image 8 of 10",
+     "description": "Competitor carousel image 8 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-08.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Dimensions_74d4bc0e-2c8c-4dda-b3fa-ae309dbf0e8c.png?v=1791315608",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 8 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 8 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 9,
+     "type": "Competitor carousel image 9 of 10",
+     "description": "Competitor carousel image 9 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-09.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_What_s_Included_999904b7-96fe-4991-b2fc-1f39012a92b6.png?v=1791315608",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 9 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 9 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 9 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 10,
+     "type": "Competitor carousel image 10 of 10",
+     "description": "Competitor carousel image 10 of 10, from the toddla.co PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/felt-christmas-tree/carrossel-concorrente/referencia-10.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Comparison.png?v=1761621328",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 10 of 10 in the Toddler Felt Christmas Tree carousel (scene: \"Competitor carousel image 10 of 10\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Toddler Felt Christmas Tree Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 10 of 10\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Toddler Felt Christmas Tree silhouette, materials, hardware, seams, colors and proportions shown in the separate Toddler Felt Christmas Tree Product Master photographs. Show A soft felt wall tree with 30 hook-and-loop ornaments your toddler can put on, take off and put on again, while the real tree stays standing.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  },
+  {
+   "product_handle": "busy-board-carry-bag",
+   "product_name": "Busy Board Carry Bag",
+   "competitor": "Tibatoes",
+   "competitor_page": "https://tibatoes.com/products/soft-quilted-baby-travel-bag",
+   "real_carousel_count": 5,
+   "downloaded_carousel_count": 5,
+   "amostrado": false,
+   "references": [
+    {
+     "position": 1,
+     "type": "Competitor carousel image 1 of 5",
+     "description": "Competitor carousel image 1 of 5, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/busy-board-carry-bag/carrossel-concorrente/referencia-01.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/1_1e004f8f-4dee-4df8-b3f5-61affb17654b.png?v=1775479790",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 5 in the Busy Board Carry Bag carousel (scene: \"Competitor carousel image 1 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Busy Board Carry Bag Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 5\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Busy Board Carry Bag silhouette, materials, hardware, seams, colors and proportions shown in the separate Busy Board Carry Bag Product Master photographs. Show A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 2,
+     "type": "Competitor carousel image 2 of 5",
+     "description": "Competitor carousel image 2 of 5, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/busy-board-carry-bag/carrossel-concorrente/referencia-02.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/5_525f880f-696a-4f4b-90dc-54c610a4ffed.png?v=1775479790",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 5 in the Busy Board Carry Bag carousel (scene: \"Competitor carousel image 2 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Busy Board Carry Bag Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 5\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Busy Board Carry Bag silhouette, materials, hardware, seams, colors and proportions shown in the separate Busy Board Carry Bag Product Master photographs. Show A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 3,
+     "type": "Competitor carousel image 3 of 5",
+     "description": "Competitor carousel image 3 of 5, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/busy-board-carry-bag/carrossel-concorrente/referencia-03.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/4_9ca2cce1-fa3a-43d4-9a9b-eb8985fecccf.png?v=1775479790",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 5 in the Busy Board Carry Bag carousel (scene: \"Competitor carousel image 3 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Busy Board Carry Bag Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 5\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Busy Board Carry Bag silhouette, materials, hardware, seams, colors and proportions shown in the separate Busy Board Carry Bag Product Master photographs. Show A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 4,
+     "type": "Competitor carousel image 4 of 5",
+     "description": "Competitor carousel image 4 of 5, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/busy-board-carry-bag/carrossel-concorrente/referencia-04.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/3_1e9672f8-e54a-422b-b67d-511001192147.png?v=1775479790",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 5 in the Busy Board Carry Bag carousel (scene: \"Competitor carousel image 4 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Busy Board Carry Bag Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 5\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Busy Board Carry Bag silhouette, materials, hardware, seams, colors and proportions shown in the separate Busy Board Carry Bag Product Master photographs. Show A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+     "position": 5,
+     "type": "Competitor carousel image 5 of 5",
+     "description": "Competitor carousel image 5 of 5, from the Tibatoes PDP.",
+     "reference_file": "Referencia de imagens - cena e prompt/busy-board-carry-bag/carrossel-concorrente/referencia-05.png",
+     "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/2_d94c1c78-edc5-4c24-bea9-49f63f066d71.png?v=1775479790",
+     "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 5 in the Busy Board Carry Bag carousel (scene: \"Competitor carousel image 5 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Busy Board Carry Bag Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 5\", from Tibatoes). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Busy Board Carry Bag silhouette, materials, hardware, seams, colors and proportions shown in the separate Busy Board Carry Bag Product Master photographs. Show A padded quilted bag that fits the busy board and the busy book, with a handle that hooks onto the pram.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+   ]
+  }
+ ]
+}

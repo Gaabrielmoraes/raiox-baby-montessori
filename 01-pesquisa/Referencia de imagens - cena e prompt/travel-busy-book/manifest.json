@@ -1,0 +1,108 @@
+{
+  "product_handle": "travel-busy-book",
+  "competitor": "toddla.co",
+  "competitor_product_title": "Toddla™ Deer Busy Book",
+  "competitor_page": "https://toddla.co/products/toddla-deer-busy-book",
+  "competitor_json": "https://toddla.co/products/toddla-deer-busy-book.js",
+  "real_carousel_count": 12,
+  "downloaded_carousel_count": 12,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Main.png?v=1785597594",
+      "alt": null,
+      "bytes": 797345
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Depth.png?v=1785597589",
+      "alt": null,
+      "bytes": 618419
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_8_Pages.jpg?v=1785597628",
+      "alt": null,
+      "bytes": 544469
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Open.png?v=1785597585",
+      "alt": null,
+      "bytes": 512883
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Benefit.jpg?v=1785597623",
+      "alt": null,
+      "bytes": 352583
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Car.jpg?v=1785597629",
+      "alt": null,
+      "bytes": 447774
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Closeups.jpg?v=1785597626",
+      "alt": null,
+      "bytes": 409327
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Flights.jpg?v=1785597630",
+      "alt": null,
+      "bytes": 531598
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-09.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Removable_Pieces.jpg?v=1785597628",
+      "alt": null,
+      "bytes": 410060
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Home.png?v=1785597605",
+      "alt": null,
+      "bytes": 1069645
+    },
+    {
+      "position": 11,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-11.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Portable.jpg?v=1785597627",
+      "alt": null,
+      "bytes": 369871
+    },
+    {
+      "position": 12,
+      "original_index_no_carrossel_real": 12,
+      "file": "carrossel-concorrente/referencia-12.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Perfect_Gift.jpg?v=1785597629",
+      "alt": null,
+      "bytes": 509519
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+﻿Mineração — 9 tarefa(s) | pais=US | status=active | midia=all | max=200/tarefa
+Fonte: Biblioteca pública (o MCP não entrega copy, criativo nem landing page)
+
+== busca: montessori toys
+    200 anúncios
+
+== busca: montessori busy board
+    200 anúncios
+
+== busca: screen free toys for toddlers
+    200 anúncios
+
+== busca: toys for 1 year old
+    200 anúncios
+
+== busca: first birthday gift toddler
+    200 anúncios
+
+== busca: fine motor skills toddler toy
+    185 anúncios
+
+== busca: montessori toddler
+    200 anúncios
+
+== busca: sensory board toddler
+     57 anúncios
+
+== busca: quiet book toddler
+    200 anúncios
+
+=== RESULTADO ===
+anúncios únicos: 1512   |   marcas: 459
+arquivo: C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Baby Parenting\01-pesquisa\dados\mineracao-2026-10-06-15-35.json
+
+=== ESCALA (tempo no ar · variações · nº de anúncios) ===
+ ord  dias  var  ads  sust  marca / domínio
+   1    37  850   54    --   Sheown  → sheown.com
+   2    56  208  135    --   Tibatoes  → tibatoes.com
+   3   100  119  114   SIM  toddla.co  → toddla.co
+   4    42  146   26    --   Nestig  → nestig.com
+   5     4  119   34    --   Gorogoro-12  → promo.gorogoro.com
+   6   112   53   51   SIM  Montessori Generation  → montessorigeneration.com
+   7   121   57   29   SIM  Lovealotter.com  → lovealotter.com
+   8    14   38   38    --   Karen Collins  → climbersgift.com
+   9   182   23   17   SIM  Cubby  → bycubby.com
+  10  1055    4    2   SIM  Acepire Montessori Academy of Frisco  → fb.me
+  11   455    2    2   SIM  Twin Parks Montessori Schools  → twinparks.org
+  12   407    1    1   SIM  Montessori Kidsmart  → montessorikidsmart.com
+  13   607    1    1   SIM  KING ARTHUR MONTESSORI ACADEMY
+  14   800    1    1   SIM  bellamontessorischool  → bellamontessori.school
+  15   628    1    1   SIM  Little Minds Montessori NY
+sust = passou de 60 dias ininterruptos no ar (o anúncio já se pagou)
+
+=== COBERTURA DOS CAMPOS ===
+1512/1512  adArchiveId
+1512/1512  adLibraryUrl
+1512/1512  pageId
+1512/1512  pageName
+1512/1512  pageUrl
+1496/1512  pageProfilePictureUrl
+1512/1512  pageCategories
+1512/1512  pageLikeCount
+1512/1512  isActive
+1512/1512  startDate
+1512/1512  endDate
+1512/1512  platforms
+1498/1512  bodyText
+1408/1512  title
+1509/1512  ctaText
+1509/1512  ctaType
+1495/1512  linkUrl
+1495/1512  linkDomain
+1490/1512  linkCaption
+ 859/1512  linkDescription
+1512/1512  displayFormat
+ 651/1512  imageUrls
+ 871/1512  videoUrls
+ 871/1512  videoPreviewUrls
+1512/1512  categories
+1512/1512  containsAiMedia
+ 365/1512  impressions
+   1/1512  spend
+   1/1512  currency
+1512/1512  gatedType
+1135/1512  collationCount
+ 263/1512  cardsCount

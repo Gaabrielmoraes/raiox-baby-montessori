@@ -1,0 +1,1703 @@
+{
+ "bycubby.com": {
+  "dominio": "bycubby.com",
+  "coletado_em": "2026-10-06T17:51:32",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtag"
+   ],
+   "pixel_meta": [
+    "1339266547419542"
+   ],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "clevertoysbox.com": {
+  "dominio": "clevertoysbox.com",
+  "coletado_em": "2026-10-06T17:51:55",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "klaviyo",
+    "pinterest"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/clevertoysbox",
+    "https://www.instagram.com/clevertoysbox",
+    "https://www.pinterest.com/clevertoysbox"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 124,
+   "n_variantes": 176,
+   "preco_min": 19.97,
+   "preco_mediana": 38.97,
+   "preco_max": 98.97,
+   "primeiro_produto": "2024-01-20",
+   "ultimo_produto": "2026-09-29",
+   "vendors": [
+    "Clever Toys Box"
+   ],
+   "tipos": [
+    "",
+    "Kids toys"
+   ],
+   "produtos": [
+    {
+     "titulo": "Montessori Dinosaur Egg Match",
+     "handle": "montessori-dinosaur-egg-match",
+     "preco": 38.97,
+     "publicado": "2026-09-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-dinosaur-egg-match.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Giraffe Busy Book",
+     "handle": "montessori-giraffe-busy-book",
+     "preco": 46.97,
+     "publicado": "2026-09-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-giraffe-busy-book.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Lion Pull Car",
+     "handle": "montessori-lion-pull-car",
+     "preco": 35.97,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-lion-pull-car.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Animal Barn",
+     "handle": "montessori-animal-barn",
+     "preco": 43.97,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-animal-barn.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Busy Beehive",
+     "handle": "montessori-busy-beehive",
+     "preco": 41.97,
+     "publicado": "2026-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-busy-beehive.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Baby Rattle Set",
+     "handle": "montessori-baby-rattle-set",
+     "preco": 42.97,
+     "publicado": "2026-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-rattles-set-fox.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Musical Drum Kit",
+     "handle": "montessori-musical-drum-kit",
+     "preco": 62.97,
+     "publicado": "2026-09-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-musical-drum-kit.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Baby Head Protector",
+     "handle": "montessori-baby-head-protector",
+     "preco": 38.97,
+     "publicado": "2026-09-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-head-protector-yellow-bee.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Alphabet Car Maze",
+     "handle": "montessori-alphabet-car-maze",
+     "preco": 46.97,
+     "publicado": "2026-09-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-alphabet-car-maze_b6830720-f0b0-4f43-90bc-11e4e2ca2193.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Farm Busy Book",
+     "handle": "montessori-farm-busy-book",
+     "preco": 44.97,
+     "publicado": "2026-09-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-farm-busy-book.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Wooden Building Blocks",
+     "handle": "montessori-wooden-building-blocks",
+     "preco": 68.97,
+     "publicado": "2026-09-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-wooden-building-blocks.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Magnetic Building Blocks",
+     "handle": "montessori-magnetic-building-blocks",
+     "preco": 64.97,
+     "publicado": "2026-09-03",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-magnetic-building-blocks_5e1535de-caab-436c-9ca5-d68eff1af279.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Wooden STEM Rocket",
+     "handle": "montessori-wooden-stem-rocket",
+     "preco": 54.97,
+     "publicado": "2026-09-03",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-wooden-stem-rocket.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Squeaky Building Blocks",
+     "handle": "montessori-squeaky-building-blocks",
+     "preco": 42.97,
+     "publicado": "2026-09-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-squeaky-building-blocks.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Rolling Drum",
+     "handle": "montessori-rolling-drum",
+     "preco": 39.97,
+     "publicado": "2026-09-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-wooden-ball-run.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Wooden Rainmaker Rattle",
+     "handle": "montessori-wooden-rainmaker-rattle",
+     "preco": 32.97,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/Montessori-Wooden-Rainmaker-Rattle.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Baby Visual Cards",
+     "handle": "montessori-baby-visual-cards",
+     "preco": 34.97,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-vision-flash-cards-for-babies-and-toddlers.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Baby Sensory Piano",
+     "handle": "montessori-baby-sensory-piano",
+     "preco": 36.97,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-sensory-piano-2.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Montessori Vacuum Cleaner",
+     "handle": "montessori-vacuum-cleaner",
+     "preco": 54.97,
+     "publicado": "2026-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-vacuum-cleaner-blue.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Silicone Teething Ring",
+     "handle": "montessori-silicone-teething-ring",
+     "preco": 26.97,
+     "publicado": "2026-05-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-silicone-teething-ring.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Number Building Blocks",
+     "handle": "montessori-number-building-blocks",
+     "preco": 36.97,
+     "publicado": "2025-11-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-number-building-blocks.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Wooden Shapes Puzzle",
+     "handle": "montessori-wooden-shapes-puzzle",
+     "preco": 34.97,
+     "publicado": "2025-11-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-wooden-shapes-puzzle.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Baby Tissue Box",
+     "handle": "montessori-baby-tissue-box",
+     "preco": 29.97,
+     "publicado": "2025-11-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-tissue-box.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Balance Bike",
+     "handle": "montessori-balance-bike",
+     "preco": 98.97,
+     "publicado": "2025-10-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-balance-bike.jpg",
+     "tipo": "Kids toys"
+    },
+    {
+     "titulo": "Montessori Ice Cream Counter",
+     "handle": "montessori-ice-cream-counter",
+     "preco": 74.97,
+     "publicado": "2025-01-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-ice-cream-counter.jpg",
+     "tipo": "Kids toys"
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Montessori Stuffed Musical Caterpillar",
+     "handle": "montessori-stuffed-musical-caterpillar",
+     "preco": 38.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/Montessori-Stuffed-Musical-Caterpillar.jpg"
+    },
+    {
+     "titulo": "Montessori Rattle Socks Set",
+     "handle": "montessori-rattle-socks-set",
+     "preco": 27.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-rattle-socks-set.jpg"
+    },
+    {
+     "titulo": "Montessori Baby Soft Book",
+     "handle": "montessori-baby-soft-book",
+     "preco": 19.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-baby-soft-book.jpg"
+    },
+    {
+     "titulo": "Montessori Talking Flashcards",
+     "handle": "montessori-talking-flash-cards",
+     "preco": 39.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-talking-flash-cards.jpg"
+    },
+    {
+     "titulo": "Montessori Afternoon Tea Set",
+     "handle": "montessori-afternoon-tea-set",
+     "preco": 39.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-afternoon-tea-set.png"
+    },
+    {
+     "titulo": "Montessori Silicone Pulling Toy",
+     "handle": "montessori-silicone-pulling-toy",
+     "preco": 34.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-silicone-pulling-toy.jpg"
+    },
+    {
+     "titulo": "Montessori Busy Book",
+     "handle": "montessori-busy-book",
+     "preco": 44.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-busy-book.jpg"
+    },
+    {
+     "titulo": "Montessori Building Blocks",
+     "handle": "montessori-building-blocks",
+     "preco": 27.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-building-blocks.jpg"
+    },
+    {
+     "titulo": "Montessori Wooden Toolbox",
+     "handle": "montessori-wooden-toolbox",
+     "preco": 58.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-wooden-toolbox.jpg"
+    },
+    {
+     "titulo": "Montessori Doctor Tool Kit",
+     "handle": "montessori-doctor-tool-kit",
+     "preco": 64.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-doctor-tool-kit.jpg"
+    },
+    {
+     "titulo": "Montessori Digital Camera",
+     "handle": "montessori-digital-camera",
+     "preco": 54.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-digital-camera.jpg"
+    },
+    {
+     "titulo": "Montessori Teether Ball",
+     "handle": "montessori-teether-ball",
+     "preco": 36.97,
+     "imagem": "https://cdn.shopify.com/s/files/1/0857/1463/2985/files/montessori-teether-ball.jpg"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2024-01-21",
+   "dias_arquivados": 35,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "clevertoysbox": {
+    "seguidores": "357",
+    "posts": "41",
+    "raw": "357 Followers, 171 Following, 41 Posts - See Instagram photos and videos from Clever ToysBox (&#064;clevertoysbox)"
+   }
+  }
+ },
+ "tinybusy.com": {
+  "dominio": "tinybusy.com",
+  "coletado_em": "2026-10-06T17:52:36",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "gtm",
+    "klaviyo",
+    "pinterest",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/tinybusy",
+    "https://instagram.com/tinybusy",
+    "https://www.pinterest.com/tinybusy",
+    "https://www.youtube.com/@tinybusy"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 22,
+   "n_variantes": 22,
+   "preco_min": 7.95,
+   "preco_mediana": 51.91,
+   "preco_max": 212.25,
+   "primeiro_produto": "2024-07-26",
+   "ultimo_produto": "2025-09-10",
+   "vendors": [
+    "TinyBusy"
+   ],
+   "tipos": [
+    "",
+    "Quiet Books",
+    "High Contrast Cards",
+    "Finger Puppets",
+    "Bags",
+    "Busy Cube"
+   ],
+   "produtos": [
+    {
+     "titulo": "Bible Bundle: Old Testament Stories & Christmas Bible Stories Quiet Books",
+     "handle": "bible-bundle",
+     "preco": 132.98,
+     "publicado": "2025-09-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/bible-bundle-old-testament-stories-christmas-bible-stories-quiet-books-1965122.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "TinyBusy™ Nativity Bible Christmas Stories Handmade Busy Quiet Books BB2",
+     "handle": "bb2",
+     "preco": 67.99,
+     "publicado": "2025-07-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/tinybusy-nativity-bible-christmas-stories-handmade-busy-quiet-books-bb2-2107093.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "TinyBusy™ Old Testament Bible Stories Handmade Busy Quiet Books BB1",
+     "handle": "bb1",
+     "preco": 64.99,
+     "publicado": "2025-05-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/tinybusy-old-testament-bible-stories-handmade-busy-quiet-books-bb1-9537686.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "DREAMY BUNDLE - DOLLHOUSE & LITTLE STAR | Felt Quiet Books",
+     "handle": "dreamyskills",
+     "preco": 170.95,
+     "publicado": "2025-05-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/dreamy-bundle-dollhouse-little-star-felt-quiet-books-8964334.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "High Contrast Baby Animal Cards DT1 | 5 Double-Sided Cards for Infant Visual Stimulation",
+     "handle": "dt1",
+     "preco": 24.99,
+     "publicado": "2025-05-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/high-contrast-baby-animal-cards-dt1-5-double-sided-cards-for-infant-visual-stimulation-9038381.jpg",
+     "tipo": "High Contrast Cards"
+    },
+    {
+     "titulo": "[Save 15% & Free Shipping] SUPER STAR BUNDLE - Set of 01 Big Quiet Book & 04 Mini Quiet Books",
+     "handle": "super-star-bundle-set-of-01-big-quiet-book-04-mini-quiet-books-little-star-ocean-friends-brown-lion-mellow-fox-silly-frog-educational-toys-for-toddlers",
+     "preco": 212.25,
+     "publicado": "2025-04-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/super-star-bundle-set-of-01-big-quiet-book-04-mini-quiet-books-little-star-ocean-friends-brown-lion-mellow-fox-silly-frog-8415714.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[Save 15% & Free Shipping] HAPPY SQUAD BUNDLE - Set of 01 Cube & 4 Mini Quiet Books Educational Toys for Toddlers",
+     "handle": "happy-squad-bundle-set-of-01-cube-3-mini-quiet-books-happy-bunny-ocean-friends-brown-lion-mellow-fox-silly-frog-educational-toys-for-toddlers",
+     "preco": 195.42,
+     "publicado": "2025-04-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/happy-squad-bundle-set-of-01-cube-4-mini-quiet-books-happy-bunny-ocean-friends-brown-lion-mellow-fox-silly-frog-educational-toys-for-toddlers-7016615.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "High Contrast Baby Object Cards DT2 | 5 Double-Sided Cards for Infant Visual Stimulation",
+     "handle": "dt2",
+     "preco": 24.99,
+     "publicado": "2025-03-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/high-contrast-baby-object-cards-dt2-5-double-sided-cards-for-infant-visual-stimulation-4954123.jpg",
+     "tipo": "High Contrast Cards"
+    },
+    {
+     "titulo": "[Save 10% & Free Shipping + Free Bag] MINI QUARTET BUNDLE - Set of 04 Mini Quiet Books Educational Toys for Toddlers",
+     "handle": "bundle-set-of-4-mini-quiet-books-brown-lion-mellow-fox-ocean-friends-silly-frog",
+     "preco": 161.96,
+     "publicado": "2025-03-03",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/mini-quartet-bundle-set-of-04-mini-quiet-books-brown-lion-mellow-fox-ocean-friends-silly-frog-educational-toys-for-toddlers-6774980.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[Save 10%] Set of 15 Felt Finger Puppets FOREST PALS & FARM BUDDIES & JUNGLE FRIENDS Interactive Toys for Toddlers",
+     "handle": "bundle-felt-finger-puppets-fpcb123-handmade-felt-sensory-interactive-toys-for-toddlers",
+     "preco": 53.86,
+     "publicado": "2025-02-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/bundle-set-of-15-felt-finger-puppets-forest-pals-farm-buddies-jungle-friends-interactive-toys-for-toddlers-5649188.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "DOLL HOUSE BQB2 | Handmade Activity Felt Quiet Books",
+     "handle": "bqb2",
+     "preco": 129.95,
+     "publicado": "2025-02-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/dreamy-bundle-dollhouse-little-star-felt-quiet-books-7041111.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "FOREST PALS FP3 Set of 5 Felt Finger Puppets",
+     "handle": "fp3",
+     "preco": 19.95,
+     "publicado": "2025-02-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/forest-pals-fp3-set-of-5-felt-finger-puppets-1982480.jpg",
+     "tipo": "Finger Puppets"
+    },
+    {
+     "titulo": "FARM BUDDIES FP2 Set of 5 Felt Finger Puppets",
+     "handle": "fp2",
+     "preco": 19.95,
+     "publicado": "2025-02-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/farm-buddies-fp2-set-of-5-felt-finger-puppets-5402153.jpg",
+     "tipo": "Finger Puppets"
+    },
+    {
+     "titulo": "JUNGLE FRIENDS FP1 Set of 5 Felt Finger Puppets",
+     "handle": "fp1",
+     "preco": 19.95,
+     "publicado": "2025-02-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/jungle-friends-fp1-set-of-5-felt-finger-puppets-5411137.jpg",
+     "tipo": "Finger Puppets"
+    },
+    {
+     "titulo": "TinyBusy Drawstring Bag",
+     "handle": "tinybusy-drawstring-bags",
+     "preco": 7.95,
+     "publicado": "2025-01-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/tinybusy-drawstring-bag-5478973.jpg",
+     "tipo": "Bags"
+    },
+    {
+     "titulo": "OCEAN FRIENDS MNB4 Handmade Felt Interactive Quiet Books",
+     "handle": "mnb4",
+     "preco": 44.99,
+     "publicado": "2024-12-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/ocean-friends-mnb4-handmade-felt-interactive-quiet-books-9008359.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "LITTLE STAR BQB1 Handmade Activity Felt Quiet Books Educational Toys for Preschoolers",
+     "handle": "bqb1",
+     "preco": 69.75,
+     "publicado": "2024-11-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/dreamy-bundle-dollhouse-little-star-felt-quiet-books-1553021.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "MELLOW FOX MNB3 Handmade Felt Interactive Quiet Books",
+     "handle": "mnb3",
+     "preco": 44.99,
+     "publicado": "2024-11-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/mellow-fox-mnb3-handmade-felt-interactive-quiet-books-5107550.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "BROWN LION MNB2 Handmade Felt Interactive Quiet Books",
+     "handle": "mnb2",
+     "preco": 44.99,
+     "publicado": "2024-11-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/brown-lion-mnb2-handmade-felt-interactive-quiet-books-3679473.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "SILLY FROG MNB1 Handmade Felt Interactive Quiet Books",
+     "handle": "mnb1",
+     "preco": 44.99,
+     "publicado": "2024-11-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/silly-frog-mnb1-handmade-felt-interactive-quiet-books-5865394.jpg",
+     "tipo": "Quiet Books"
+    },
+    {
+     "titulo": "HAPPY BUNNY CB1 Handmade Activity Busy Cube Interactive Educational Toys for Toddlers",
+     "handle": "cb1",
+     "preco": 49.95,
+     "publicado": "2024-07-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/happy-bunny-cb1-handmade-activity-busy-cube-interactive-educational-toys-for-toddlers-8254155.jpg",
+     "tipo": "Busy Cube"
+    },
+    {
+     "titulo": "RISING STARS TB1 (Extended Version) Interactive Quiet Books",
+     "handle": "tb1",
+     "preco": 94.75,
+     "publicado": "2024-07-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0886/6522/7574/files/rising-stars-tb1-extended-version-interactive-quiet-books-1232576.jpg",
+     "tipo": "Quiet Books"
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 96,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "tinybusy": {
+    "seguidores": "7,102",
+    "posts": "89",
+    "raw": "7,102 Followers, 130 Following, 89 Posts - See Instagram photos and videos from TinyBusy Quiet Books (&#064;tinybusy)"
+   }
+  }
+ },
+ "joyrealtoys.com": {
+  "dominio": "joyrealtoys.com",
+  "coletado_em": "2026-10-06T17:52:51",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "loox",
+    "pinterest",
+    "snap",
+    "tiktok",
+    "upcart"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/groups/2265649707209914",
+    "https://www.facebook.com/joyrealtoys",
+    "https://www.instagram.com/joyrealtoys",
+    "https://www.tiktok.com/@joyrealtoys",
+    "https://www.youtube.com/@joyrealtoy"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 115,
+   "n_variantes": 119,
+   "preco_min": 4,
+   "preco_mediana": 45.99,
+   "preco_max": 179.99,
+   "primeiro_produto": "2025-01-15",
+   "ultimo_produto": "2026-09-29",
+   "vendors": [
+    "Joyreal",
+    "Joyreal Toys",
+    "Vanplay",
+    "Dreamon",
+    "Sanlebi"
+   ],
+   "tipos": [
+    "Talking Aid",
+    "Pretend Play Toys",
+    "Activity Toys",
+    "Magnetic Toys",
+    "",
+    "Sensory Toys",
+    "Busy Board",
+    "Baby Toys",
+    "Building & Puzzles",
+    "Early Learning Toys"
+   ],
+   "produtos": [
+    {
+     "titulo": "Home & Go AAC Communication Combo Set",
+     "handle": "home-go-aac-communication-combo-set",
+     "preco": 59.99,
+     "publicado": "2026-09-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/blue-aac-communication-board-device.jpg",
+     "tipo": "Talking Aid"
+    },
+    {
+     "titulo": "Unicorn Glam Girls Makeup Set 3+",
+     "handle": "unicorn-makeup-set-for-girls-3",
+     "preco": 45.99,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/JoyrealUnicornMakeupSetforKids26-PieceWashableKit_2.png",
+     "tipo": "Pretend Play Toys"
+    },
+    {
+     "titulo": "Farm and Train 10-in-1 Wooden Activity Table",
+     "handle": "10-in-1-farm-activity-table-for-toddlers-montessori-wooden-sensory-toy",
+     "preco": 79.99,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/wooden-farm-activity-table-main.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Noah's Ark Story World Wooden Play Set - Pink",
+     "handle": "joyreal-pink-wooden-noahs-ark-toy-for-1-year-old-baby-girl-baptism-gifts",
+     "preco": 52.99,
+     "publicado": "2026-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/MontessoriEducationalToy_AnimalShapeSorter_ChristianToysforToddlerBoy1-3YearsOld_ChristmasBirthdayGiftMX140_1.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Magnetic Creator STEM Blocks 52PCS",
+     "handle": "52-pcs-magnetic-building-blocks-stem-toy-for-kids-ages-3",
+     "preco": 37.92,
+     "publicado": "2026-09-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/MX159_Magnetic_Block_7.jpg",
+     "tipo": "Magnetic Toys"
+    },
+    {
+     "titulo": "Glam Studio Girls Hair Styling Kit",
+     "handle": "hair-sequin-stamper-kit-240-reusable-gems-hair-chalk-for-girls",
+     "preco": 34.92,
+     "publicado": "2026-09-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/Hair_Sequin_Stamper_Kit-main.png",
+     "tipo": "Pretend Play Toys"
+    },
+    {
+     "titulo": "Sparkle Studio DIY Hair Styling Kit",
+     "handle": "hair-gem-stamper-kit-automatic-braider-styling-set-for-girls",
+     "preco": 37.94,
+     "publicado": "2026-09-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/Joyreal-Hair-Gem-Stamper-Kit-main.png",
+     "tipo": "Pretend Play Toys"
+    },
+    {
+     "titulo": "Little Spa Retreat Salon Playset",
+     "handle": "kids-foot-spa-nail-kit-25-piece-spa-day-gift-set",
+     "preco": 54.92,
+     "publicado": "2026-09-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/JoyrealKidsFootBathNailKitSalonPretendPlayGirlsGiftSetToys.png",
+     "tipo": "Pretend Play Toys"
+    },
+    {
+     "titulo": "Peek-a-boo Wooden Pop-Up Shape Sorter Toy",
+     "handle": "wooden-pop-up-shape-sorter-toy-for-babies-toddlers",
+     "preco": 42.99,
+     "publicado": "2026-09-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/wooden-pop-up-shape-sorter-toy-main.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Prank Toys for Kids - 20 Funny Gags Practical Jokes Gifts",
+     "handle": "halloween-limited-edition-prank-kit-for-kids-20-gags-sound-effects",
+     "preco": 42.99,
+     "publicado": "2026-09-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/halloween-limited-edition-prank-kit-main.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "SensoryBuzz Vibrating Teething Kit - Grey",
+     "handle": "sensorybuzz-vibration-kit-oral-motor-sensory-tool-4-modes-7-textured-silicone-heads",
+     "preco": 54.72,
+     "publicado": "2026-09-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/JoyrealSensoryBuzzOralMotorVibrationKitwith7TexturedSilicone.png",
+     "tipo": "Sensory Toys"
+    },
+    {
+     "titulo": "Weighted Calming Book for Toddlers 3Lb",
+     "handle": "3-lb-weighted-sensory-quiet-book-for-kids-ages-3",
+     "preco": 57.95,
+     "publicado": "2026-09-15",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/1_56c99efa-a8cb-4dce-ae6d-07f78ae11ee5.jpg",
+     "tipo": "Sensory Toys"
+    },
+    {
+     "titulo": "Bright Town Control LED Power Busy Board - 39 Lights & 17 Switches",
+     "handle": "wooden-led-power-busy-board-for-toddlers-39-lights-17-switches",
+     "preco": 47.92,
+     "publicado": "2026-09-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/WoodenLEDPowerBusyBoardforToddlers_3.jpg",
+     "tipo": "Busy Board"
+    },
+    {
+     "titulo": "Racing Town Car Ramp Wooden Racer Toys Plus",
+     "handle": "wooden-car-ramp-racer-toys-with-8-mini-cars-2-garages",
+     "preco": 45.99,
+     "publicado": "2026-09-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/1_6f2a7684-0c43-4ff1-879d-88435e890a5e.jpg",
+     "tipo": "Baby Toys"
+    },
+    {
+     "titulo": "Twist & Stack Wooden Spinning Stacking Toy",
+     "handle": "wooden-spinning-stacking-toy-for-toddlers-ages-1-3",
+     "preco": 37.99,
+     "publicado": "2026-09-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/MZ007.jpg",
+     "tipo": "Building & Puzzles"
+    },
+    {
+     "titulo": "Wooden Math Learning Abacus",
+     "handle": "wooden-abacus-for-kids-counting-math-learning-toy-for-preschoolers",
+     "preco": 37.42,
+     "publicado": "2026-09-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/ZY-445.jpg",
+     "tipo": "Early Learning Toys"
+    },
+    {
+     "titulo": "Melody Tree Wooden Musical Ball Drop Toys",
+     "handle": "wooden-marble-run-music-tree-for-kids-3-5-montessori-ball-drop-toy",
+     "preco": 52.72,
+     "publicado": "2026-09-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/2_5efc6198-00c7-41ad-a1c6-a56a57ed355a.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Cloud Nest Inflatable Sensory Rocking Lounger Chair",
+     "handle": "kids-inflatable-lounger-chair-with-soft-flocked-cushion",
+     "preco": 89.99,
+     "publicado": "2026-09-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/JoyrealInflatableKidsLoungerChairSoftFlockedToddlerSofa.png",
+     "tipo": "Active Play Toys"
+    },
+    {
+     "titulo": "Alphabet Adventure Wooden Magnetic Letter Tracing Board",
+     "handle": "wooden-letter-tracing-board-magnetic-alphabet-numbers",
+     "preco": 54.92,
+     "publicado": "2026-08-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/1_be5e6be0-e9dd-4062-a54d-59fc63d52902.jpg",
+     "tipo": "Early Learning Toys"
+    },
+    {
+     "titulo": "Robo Pup Walking Puppy Toy",
+     "handle": "18-piece-walking-robot-puppy-toy-with-dog-house-leash",
+     "preco": 47.99,
+     "publicado": "2026-08-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/1-3_c32b57cb-16fa-43c5-be53-165f6b3cc4d6.jpg",
+     "tipo": "Pretend Play Toys"
+    },
+    {
+     "titulo": "First Moments Baby Rattles and Teething Toys",
+     "handle": "10-piece-baby-rattles-and-teething-toys-set-for-newborns-0-6-months",
+     "preco": 42.99,
+     "publicado": "2026-08-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/1_8dc963ad-0a2f-4ae2-86f7-f67cebb85b10.jpg",
+     "tipo": "Baby Toys"
+    },
+    {
+     "titulo": "Wooden Magnetic Apple Tree 9-in-1 Montessori Toy",
+     "handle": "9-in-1-montessori-sorting-stacking-apple-tree-toy",
+     "preco": 53.74,
+     "publicado": "2026-08-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/MontessoriWoodenMagneticAppleTreeToy.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Magnetic Learning Board for Phonemic Awareness",
+     "handle": "joyreal-magnetic-dry-erase-board-phonemic-awareness-speech-therapy-tool-for-homeschool",
+     "preco": 47.82,
+     "publicado": "2026-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/MX052.jpg",
+     "tipo": "Early Learning Toys"
+    },
+    {
+     "titulo": "Wonderland 9-in-1 Wooden Activity Table",
+     "handle": "9-in-1-montessori-wooden-activity-table-for-toddlers",
+     "preco": 52.99,
+     "publicado": "2026-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/2-1_31555f67-a585-40a3-b686-170a6763ee8d.jpg",
+     "tipo": "Activity Toys"
+    },
+    {
+     "titulo": "Speedway Car Ramp Toy with 4 Cars",
+     "handle": "car-ramp-toy-with-4-cars-for-toddlers-ages-1-3",
+     "preco": 42.99,
+     "publicado": "2026-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0569/4383/7274/files/car-ramp-toy-four-cars.jpg",
+     "tipo": "Car Toys"
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "joyrealtoys": {
+    "seguidores": "20K",
+    "posts": "488",
+    "raw": "20K Followers, 495 Following, 488 Posts - See Instagram photos and videos from Joyreal (&#064;joyrealtoys)"
+   }
+  }
+ },
+ "montessoritoddlers.com": {
+  "dominio": "montessoritoddlers.com",
+  "coletado_em": "2026-10-06T17:53:03",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "hotjar",
+    "klarna",
+    "shogun",
+    "snap"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/montessoritoddlersglobal",
+    "https://www.instagram.com/montessoritoddlersglobal",
+    "https://www.youtube.com/embed"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 99,
+   "n_variantes": 175,
+   "preco_min": 14,
+   "preco_mediana": 36,
+   "preco_max": 136,
+   "primeiro_produto": "2026-06-09",
+   "ultimo_produto": "2026-09-28",
+   "vendors": [
+    "Montessori Toddlers",
+    "Montessori Toddlers.com"
+   ],
+   "tipos": [
+    "Stacking & Sorting",
+    "Wooden Toys",
+    "Active & Sensory Play",
+    "Sensory Toys",
+    "Games & Active Play",
+    "Sensory & Musical",
+    "Fine Motor & Sorting",
+    "Outdoor & Active Play",
+    "",
+    "Plush & Sensory"
+   ],
+   "produtos": [
+    {
+     "titulo": "Toddlers Wooden Burger Stacking Toy",
+     "handle": "toddlers-wooden-burger-stacking-toy",
+     "preco": 24.9,
+     "publicado": "2026-09-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/burger-1.jpg",
+     "tipo": "Stacking & Sorting"
+    },
+    {
+     "titulo": "Toddlers Wooden Workshop",
+     "handle": "toddlers-wooden-workshop",
+     "preco": 55.9,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/workshop-1.jpg",
+     "tipo": "Wooden Toys"
+    },
+    {
+     "titulo": "Toddlers Whack Game Hammering Toy",
+     "handle": "toddlers-whack-game-hammering-toy",
+     "preco": 22.9,
+     "publicado": "2026-09-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/whack-1.jpg",
+     "tipo": "Active & Sensory Play"
+    },
+    {
+     "titulo": "Toddlers Wooden Maths Sticks",
+     "handle": "toddlers-wooden-maths-sticks",
+     "preco": 36,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/math-sticks-1.webp",
+     "tipo": "Wooden Toys"
+    },
+    {
+     "titulo": "Toddlers Wooden Handmade Car",
+     "handle": "toddlers-wooden-handmade-car",
+     "preco": 25,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/hero_28a1198c-d3d3-404f-b6f5-3dbe874addac.webp",
+     "tipo": "Wooden Toys"
+    },
+    {
+     "titulo": "Toddlers Tissue Box Sensory Toy",
+     "handle": "toddlers-tissue-box-sensory-toy",
+     "preco": 26,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/hero.webp",
+     "tipo": "Sensory Toys"
+    },
+    {
+     "titulo": "Toddlers Ring Toss Challenge",
+     "handle": "toddlers-ring-toss-challenge",
+     "preco": 43,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/ring-toss-challenge.jpg",
+     "tipo": "Games & Active Play"
+    },
+    {
+     "titulo": "Toddlers Musical Animal",
+     "handle": "toddlers-musical-animal",
+     "preco": 37,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/hero_8a12e1ea-5aba-4b8e-8bec-4db4d544f6e6.jpg",
+     "tipo": "Sensory & Musical"
+    },
+    {
+     "titulo": "Toddlers Little Fisherman Fishing Set",
+     "handle": "toddlers-little-fisherman-fishing-set",
+     "preco": 46,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/img09.jpg",
+     "tipo": "Fine Motor & Sorting"
+    },
+    {
+     "titulo": "Toddlers Golf Set",
+     "handle": "toddlers-golf-set",
+     "preco": 95,
+     "publicado": "2026-06-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/1962896693_max.jpg",
+     "tipo": "Outdoor & Active Play"
+    },
+    {
+     "titulo": "Toddlers Wooden Learning Clock",
+     "handle": "toddlers-wooden-learning-clock",
+     "preco": 19.9,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/toddlers-wooden-learning-clock.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Geometric Blocks",
+     "handle": "toddlers-hidden-blocks",
+     "preco": 69,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/78.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Baby Beehive",
+     "handle": "toddlers-baby-beehive",
+     "preco": 50,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/1_dc00b976-1bef-4fb9-8fe3-dcc591f75d97.jpg",
+     "tipo": "Plush & Sensory"
+    },
+    {
+     "titulo": "Toddlers 6-in-1 Sorting Tool",
+     "handle": "toddlers-6-in-1-sorting-tool",
+     "preco": 77,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/1_d64dbbb1-506b-446a-b13b-dc32aa2247d4.jpg",
+     "tipo": "Stacking & Sorting"
+    },
+    {
+     "titulo": "Toddlers Animal Chunky Puzzle",
+     "handle": "toddlers-animal-chunky-puzzle",
+     "preco": 36,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/1_e0042de7-1381-4ad4-9cb5-97fe8e1d8039.webp",
+     "tipo": "Puzzles"
+    },
+    {
+     "titulo": "Toddlers Stacking & Nesting Rings",
+     "handle": "toddlers-stacking-nesting-rings",
+     "preco": 41,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/H85c7d08c20a04afd949f5a53ad9920e0f_d6569b78-bda6-4c72-af56-fb92c944be4b.jpg",
+     "tipo": "Stacking & Sorting"
+    },
+    {
+     "titulo": "Toddlers Personalised Snuggle Teddy",
+     "handle": "toddlers-personalised-snuggle-teddy",
+     "preco": 46.9,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/SnuggleTeddy-grey.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers 6-in-1 Activity Cube",
+     "handle": "toddlers-cube",
+     "preco": 28,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/5_9b7bec27-2619-41bc-9b78-5813bf17b95e.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Egg Faces - Match, laugh, and learn!",
+     "handle": "toddlers-egg-faces",
+     "preco": 25,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/5_bec91b80-e8f5-4bac-82e6-208191ed4c78.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Reading Gadget",
+     "handle": "toddlers-reading-gadget",
+     "preco": 28,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/150-elementor-io-optimized.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Busy Cube",
+     "handle": "toddlers-busy-cube",
+     "preco": 35,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/24.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Music Set",
+     "handle": "toddlers-music-set",
+     "preco": 99.9,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/134-elementor-io-optimized.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Wooden Coffee Machine",
+     "handle": "toddlers-wooden-coffee-machine",
+     "preco": 82,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/266.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Building Blocks",
+     "handle": "toddlers-building-blocks-1",
+     "preco": 55,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/toddlers-building-blocks.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Toddlers Mini Cars 3pcs Set",
+     "handle": "toddlers-mini-cars",
+     "preco": 48,
+     "publicado": "2026-06-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/129-elementor-io-optimized.webp",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "top-sellers",
+   "produtos": [
+    {
+     "titulo": "Toddlers Personalized Wooden Puzzle",
+     "handle": "toddlers-personalized-wooden-puzzle",
+     "preco": 44.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/mt-hero-puzzle.jpg"
+    },
+    {
+     "titulo": "Toddlers Chef Set – Encourage your kids to have fun in the kitchen",
+     "handle": "toddlers-chef-set",
+     "preco": 35,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/chefset-1.jpg"
+    },
+    {
+     "titulo": "Toddlers Tablet – Perfect for drawing, writing, counting, and more!",
+     "handle": "toddlers-tablet",
+     "preco": 21,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/toddlers-tablet_1.jpg"
+    },
+    {
+     "titulo": "Toddlers Handprint Frame",
+     "handle": "toddlers-handprint-frame",
+     "preco": 49.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/handprint-1.jpg"
+    },
+    {
+     "titulo": "Shut the Box Dice Game – Promotes math skills",
+     "handle": "shut-the-box-dice-game",
+     "preco": 29.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/mt_shut-the-box.jpg"
+    },
+    {
+     "titulo": "Toddlers Music Set",
+     "handle": "toddlers-music-set",
+     "preco": 99.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/134-elementor-io-optimized.webp"
+    },
+    {
+     "titulo": "Toddlers Frame - Preserve Your Child's Creativity",
+     "handle": "toddlers-frame",
+     "preco": 29.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/20250609_M_TODDLERS1633-2.webp"
+    },
+    {
+     "titulo": "Toddlers Remote Control",
+     "handle": "toddlers-remote-control",
+     "preco": 25,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/176-elementor-io-optimized.webp"
+    },
+    {
+     "titulo": "Toddlers Tree - Children's very own Christmas tree!",
+     "handle": "toddlers-tree",
+     "preco": 34.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/231.webp"
+    },
+    {
+     "titulo": "Toddlers 6-in-1 Activity Cube",
+     "handle": "toddlers-cube",
+     "preco": 28,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/5_9b7bec27-2619-41bc-9b78-5813bf17b95e.jpg"
+    },
+    {
+     "titulo": "Toddlers Travel Bag - Cultivating curiosity on the road!",
+     "handle": "toddlers-travel-bag",
+     "preco": 34.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/travel-bag_pink_1.jpg"
+    },
+    {
+     "titulo": "Toddlers Wooden Busy Board",
+     "handle": "toddlers-wooden-busy-board",
+     "preco": 29,
+     "imagem": "https://cdn.shopify.com/s/files/1/1004/1871/5947/files/Product_Images_-_Shut_the_Box.webp"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "montessoritoddlersglobal": {
+    "seguidores": "30K",
+    "posts": "242",
+    "raw": "30K Followers, 107 Following, 242 Posts - See Instagram photos and videos from Montessori Toddlers (&#064;montessoritoddlersglobal)"
+   }
+  }
+ },
+ "climbersgift.com": {
+  "dominio": "climbersgift.com",
+  "coletado_em": "2026-10-06T17:53:14",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gtag",
+    "gtm",
+    "hotjar",
+    "judge.me",
+    "klaviyo",
+    "pinterest",
+    "recharge",
+    "tiktok",
+    "triplewhale",
+    "zipify"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/climbersgift",
+    "https://www.tiktok.com/@climbersgiftshop"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 44,
+   "n_variantes": 77,
+   "preco_min": 4.95,
+   "preco_mediana": 33.99,
+   "preco_max": 200,
+   "primeiro_produto": "2024-02-21",
+   "ultimo_produto": "2026-09-23",
+   "vendors": [
+    "ClimbersGift",
+    "My Store"
+   ],
+   "tipos": [
+    "Mugs",
+    "",
+    "Hand & Finger Training"
+   ],
+   "produtos": [
+    {
+     "titulo": "Metal Climbing Hold Mug",
+     "handle": "metal-climbing-hold-mug",
+     "preco": 25,
+     "publicado": "2026-09-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/metal-climbing-hold-mug-10.jpg",
+     "tipo": "Mugs"
+    },
+    {
+     "titulo": "Order Coverage",
+     "handle": "order-coverage",
+     "preco": 4.95,
+     "publicado": "2026-08-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/order-coverage-crisp.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Travel Canvas Bag",
+     "handle": "travel-canvas-bag",
+     "preco": 14.99,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/CanvasBag.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boulder Block Original Holds Set",
+     "handle": "boulder-block-original-holds-set",
+     "preco": 24.99,
+     "publicado": "2026-04-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/1_1_901f9c40-b7d2-4a6d-9b53-ab550768af76.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rhino Ball™",
+     "handle": "rhino-callus-ball",
+     "preco": 39.99,
+     "publicado": "2026-03-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/rhino-ball-box-and-ball-bright-crisp-01.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rainbow Climbing Rope Chalk Bag",
+     "handle": "rainbow-climbing-rope-chalk-bag",
+     "preco": 33.99,
+     "publicado": "2025-12-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/Rainbow.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Arctic Climbing Rope Chalk Bag",
+     "handle": "arctic-climbing-rope-chalk-bag",
+     "preco": 33.99,
+     "publicado": "2025-12-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/Arctic_20f48c83-87ff-461c-96bc-55c4eec8e25e.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boulder Block Challenge Cards",
+     "handle": "boulder-block-challenge-deck",
+     "preco": 24.99,
+     "publicado": "2025-09-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/FannedCardsTrimmed_4bbd4ad3-d1c6-4b2b-a6f1-0c8bf8b1df4d2.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Adjustable Handle Grip Strengthener 5-60kg",
+     "handle": "adjustable-handle-grip-strengthener-5-60kg",
+     "preco": 11.99,
+     "publicado": "2025-05-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/adjustable-handle-grip-strengthener-5-60kg-shop.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Crimp War™",
+     "handle": "crimp-war™",
+     "preco": 49.99,
+     "publicado": "2025-04-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/Bundle1_042acf77-029c-4f82-9d72-cacb3f181891.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boulder Beanie - Dark",
+     "handle": "boulder-beanie-dark",
+     "preco": 26.99,
+     "publicado": "2025-02-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/9024244f02bfb284cb6a3da9c3884bfc.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boulder Beanie - Light",
+     "handle": "boulder-beanie-light",
+     "preco": 26.99,
+     "publicado": "2025-02-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/7e99f3781fa41a254b8dc5f804b7336d.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boulder Block",
+     "handle": "boulder-block",
+     "preco": 69.99,
+     "publicado": "2024-10-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/SquareBundleNewWEBP.webp",
+     "tipo": "Hand & Finger Training"
+    },
+    {
+     "titulo": "Climb Salve – Climbing Hand Balm, 25g",
+     "handle": "climb-salve-heal-strengthen-hands",
+     "preco": 19.99,
+     "publicado": "2024-10-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/climb-salve-v2-01-tin-box.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Boar Hair Climbing Brush",
+     "handle": "boar-hair-climbing-brush-copy",
+     "preco": 6.99,
+     "publicado": "2024-10-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/3_f952be1e-1c69-46f1-9eba-ca7491a44a20.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Yeti Grip Tape (2 Rolls)",
+     "handle": "yeti-grip-tape",
+     "preco": 8.99,
+     "publicado": "2024-10-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/1_f2e14607-7ef4-4f02-bb01-e609e62b242a.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Gift Card",
+     "handle": "gift-card",
+     "preco": 50,
+     "publicado": "2024-08-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/personalized-gift-card.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hybrid Ice Rock Key Holder",
+     "handle": "ice-rock-key-holder-copy",
+     "preco": 44.99,
+     "publicado": "2024-07-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/hybrid-ice-rock-key-holder-on-modern-desk.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ice Rock Key Holder",
+     "handle": "large-rock-key-holder-copy",
+     "preco": 44.99,
+     "publicado": "2024-07-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/rustic-ice-rock-key-holder-on-wooden-table.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Climbing Shot Glasses",
+     "handle": "climbing-shot-glasses",
+     "preco": 39.99,
+     "publicado": "2024-05-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/climbing-shot-glasses-with-climbing-design-buy.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Speed Climbing Shot Glasses",
+     "handle": "speed-climbing-shot-glasses",
+     "preco": 39.99,
+     "publicado": "2024-05-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/colorful-speed-climbing-shot-glasses.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Wrapping Paper 70 x 50cm",
+     "handle": "wrapping-paper-70-x-50cm",
+     "preco": 4.99,
+     "publicado": "2024-04-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/wrapping-paper-70-x-50cm-on-table.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Lauren-Spencer Ring Holder Necklace for Rock Climbers",
+     "handle": "lauren-spencer-ring-holder-necklace-for-rock-climbers",
+     "preco": 29.99,
+     "publicado": "2024-04-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/lauren-spencer-ring-holder.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rock Climbing Shoe Charms (6 Pcs)",
+     "handle": "rock-climbing-shoe-charms-6-pcs",
+     "preco": 7.99,
+     "publicado": "2024-04-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/rock-climbing-shoe-charms-6-pcs-on-table_webp.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Crux Mug",
+     "handle": "crux-mug",
+     "preco": 19.99,
+     "publicado": "2024-04-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0815/2760/3526/files/minimalist-crux-mug-white-background.webp",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "rank_atual": 3117299,
+   "rank_antigo": 4149527,
+   "dias": 18,
+   "variacao": 1032228,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "climbersgift": {
+    "seguidores": "17K",
+    "posts": "195",
+    "raw": "17K Followers, 318 Following, 195 Posts - See Instagram photos and videos from climber&#039;s gift (&#064;climbersgift)"
+   }
+  }
+ },
+ "kiddospark.co": {
+  "dominio": "kiddospark.co",
+  "coletado_em": "2026-10-06T17:53:27",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "klarna",
+    "rebuy",
+    "recharge",
+    "shoppay",
+    "snap",
+    "upcart",
+    "zipify"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 5,
+   "n_variantes": 5,
+   "preco_min": 14.99,
+   "preco_mediana": 39.99,
+   "preco_max": 59.99,
+   "primeiro_produto": "2026-08-21",
+   "ultimo_produto": "2026-09-07",
+   "vendors": [
+    "Kiddo Spark"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "KiddoSpark Crinkle Book",
+     "handle": "kiddospark-crinkle-book",
+     "preco": 14.99,
+     "publicado": "2026-09-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1019/5324/1460/files/71VP7K9BG8L._SL1500.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "KiddoSpark Animal Sticker Book",
+     "handle": "kiddospark-animal-sticker-book",
+     "preco": 19.99,
+     "publicado": "2026-09-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1019/5324/1460/files/81tjcYo7IRL._AC_SL1500.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "KiddoSpark Sound Fidgets (3pc)",
+     "handle": "kiddospark-sensory-fidgets-3pc",
+     "preco": 39.99,
+     "publicado": "2026-09-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1019/5324/1460/files/71vNhSUOtxL._AC_SL1500.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "KiddoSpark Talking Buddy",
+     "handle": "kiddospark-talking-buddy",
+     "preco": 59.99,
+     "publicado": "2026-09-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1019/5324/1460/files/71d1pPKM94L._AC_SL1500.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "The KiddoSpark Sound Book",
+     "handle": "soundbook",
+     "preco": 54.99,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/1019/5324/1460/files/ChatGPT_Image_Sep_7_2026_07_59_39_PM.webp",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ }
+}

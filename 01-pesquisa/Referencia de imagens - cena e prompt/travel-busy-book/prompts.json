@@ -1,0 +1,206 @@
+{
+  "product_handle": "travel-busy-book",
+  "competitor": "toddla.co",
+  "competitor_product_title": "Toddla™ Deer Busy Book",
+  "competitor_page": "https://toddla.co/products/toddla-deer-busy-book",
+  "competitor_json": "https://toddla.co/products/toddla-deer-busy-book.js",
+  "real_carousel_count": 12,
+  "downloaded_carousel_count": 12,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Main.png?v=1785597594",
+      "alt": null,
+      "bytes": 797345
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Depth.png?v=1785597589",
+      "alt": null,
+      "bytes": 618419
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_8_Pages.jpg?v=1785597628",
+      "alt": null,
+      "bytes": 544469
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Open.png?v=1785597585",
+      "alt": null,
+      "bytes": 512883
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Benefit.jpg?v=1785597623",
+      "alt": null,
+      "bytes": 352583
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Car.jpg?v=1785597629",
+      "alt": null,
+      "bytes": 447774
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Closeups.jpg?v=1785597626",
+      "alt": null,
+      "bytes": 409327
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Flights.jpg?v=1785597630",
+      "alt": null,
+      "bytes": 531598
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-09.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Removable_Pieces.jpg?v=1785597628",
+      "alt": null,
+      "bytes": 410060
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Home.png?v=1785597605",
+      "alt": null,
+      "bytes": 1069645
+    },
+    {
+      "position": 11,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-11.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Portable.jpg?v=1785597627",
+      "alt": null,
+      "bytes": 369871
+    },
+    {
+      "position": 12,
+      "original_index_no_carrossel_real": 12,
+      "file": "carrossel-concorrente/referencia-12.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Perfect_Gift.jpg?v=1785597629",
+      "alt": null,
+      "bytes": 509519
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 12",
+      "description": "Competitor carousel image 1 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Main.png?v=1785597594",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 1 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 1 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 12",
+      "description": "Competitor carousel image 2 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Depth.png?v=1785597589",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 2 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 2 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 12",
+      "description": "Competitor carousel image 3 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_8_Pages.jpg?v=1785597628",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 3 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 3 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 12",
+      "description": "Competitor carousel image 4 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Open.png?v=1785597585",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 4 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 4 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 12",
+      "description": "Competitor carousel image 5 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Benefit.jpg?v=1785597623",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 5 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 5 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 12",
+      "description": "Competitor carousel image 6 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Car.jpg?v=1785597629",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 6 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 6 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 12",
+      "description": "Competitor carousel image 7 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Closeups.jpg?v=1785597626",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 7 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 7 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 12",
+      "description": "Competitor carousel image 8 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-08.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Flights.jpg?v=1785597630",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 8 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 8 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 9,
+      "type": "Competitor carousel image 9 of 12",
+      "description": "Competitor carousel image 9 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-09.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Removable_Pieces.jpg?v=1785597628",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 9 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 9 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 9 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 10,
+      "type": "Competitor carousel image 10 of 12",
+      "description": "Competitor carousel image 10 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Home.png?v=1785597605",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 10 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 10 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 10 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 11,
+      "type": "Competitor carousel image 11 of 12",
+      "description": "Competitor carousel image 11 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-11.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Portable.jpg?v=1785597627",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 11 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 11 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 11 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 12,
+      "type": "Competitor carousel image 12 of 12",
+      "description": "Competitor carousel image 12 of 12, from the toddla.co PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/travel-busy-book/carrossel-concorrente/referencia-12.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Perfect_Gift.jpg?v=1785597629",
+      "prompt": "Create one premium e-commerce PDP image for Wattlebee. This is image 12 of 12 in the Travel Busy Book carousel (scene: \"Competitor carousel image 12 of 12\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Travel Busy Book Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 12 of 12\", from toddla.co). Build a premium, confident visual language for Wattlebee. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Wattlebee palette naturally: #3F5E4E as the primary brand color, #FBF8F1 as a clean neutral background, #E3A82B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Travel Busy Book silhouette, materials, hardware, seams, colors and proportions shown in the separate Travel Busy Book Product Master photographs. Show A soft felt busy book with buttons, buckles, a zip, a lace and shapes to match. Light, silent and made to live in the nappy bag.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Wattlebee identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

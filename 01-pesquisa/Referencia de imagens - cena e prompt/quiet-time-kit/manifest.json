@@ -1,0 +1,100 @@
+{
+  "product_handle": "quiet-time-kit",
+  "competitor": "toddla.co",
+  "competitor_product_title": "Starter Montessori Bundle",
+  "competitor_page": "https://toddla.co/products/starter-montessori-bundle",
+  "competitor_json": "https://toddla.co/products/starter-montessori-bundle.js",
+  "real_carousel_count": 11,
+  "downloaded_carousel_count": 11,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Starter_Montessori_Bundle.png?v=1778154676",
+      "alt": null,
+      "bytes": 648353
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori_Busy_Board_Blue_Plus.png?v=1768952139",
+      "alt": "no-repeat center / cover url('https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Blue_Plus.png?v=1768273613')",
+      "bytes": 1157400
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Car_Rides.png?v=1768952139",
+      "alt": null,
+      "bytes": 1740665
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Independent_Play.png?v=1768952139",
+      "alt": null,
+      "bytes": 1534484
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori-Busy-Board-Gift-Closeup-Blue.png?v=1768952139",
+      "alt": null,
+      "bytes": 1694353
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Main.png?v=1763079889",
+      "alt": null,
+      "bytes": 719393
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Car.png?v=1763079889",
+      "alt": null,
+      "bytes": 1158159
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Lifestyle.png?v=1730330958",
+      "alt": null,
+      "bytes": 1110470
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-09.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeMain.png?v=1730148530",
+      "alt": null,
+      "bytes": 477759
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCube6-in-1.png?v=1730148530",
+      "alt": null,
+      "bytes": 316725
+    },
+    {
+      "position": 11,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-11.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeTravel.jpg?v=1730148530",
+      "alt": null,
+      "bytes": 65277
+    }
+  ]
+}

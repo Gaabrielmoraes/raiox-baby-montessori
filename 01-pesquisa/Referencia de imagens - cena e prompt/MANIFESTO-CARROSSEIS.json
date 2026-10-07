@@ -1,0 +1,486 @@
+{
+  "generated_at": "2026-10-06T23:23:31.514Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (12, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "switch-busy-board",
+      "competitor": "Lovealotter",
+      "competitor_product_title": "LED Busy Switch Board for Toddlers",
+      "competitor_page": "https://lovealotter.com/products/montessori-wooden-led-busy-board",
+      "competitor_json": "https://lovealotter.com/products/montessori-wooden-led-busy-board.js",
+      "real_carousel_count": 13,
+      "downloaded_carousel_count": 12,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142323.png?v=1763575728",
+          "alt": null,
+          "bytes": 223585
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233810.png?v=1763743406",
+          "alt": null,
+          "bytes": 501568
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233620.png?v=1763743406",
+          "alt": null,
+          "bytes": 506618
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142331.png?v=1763743406",
+          "alt": null,
+          "bytes": 491999
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/busy_board_2.png?v=1763884544",
+          "alt": null,
+          "bytes": 687636
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142338.png?v=1763884544",
+          "alt": null,
+          "bytes": 623362
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/busy_board_10.png?v=1763884544",
+          "alt": null,
+          "bytes": 836233
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/WOODEN_BUSY_BOARD_7.png?v=1763884544",
+          "alt": null,
+          "bytes": 917372
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-09.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142344.png?v=1763884544",
+          "alt": null,
+          "bytes": 377009
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-10.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot2025-11-19142354.png?v=1763884544",
+          "alt": null,
+          "bytes": 300156
+        },
+        {
+          "position": 11,
+          "original_index_no_carrossel_real": 12,
+          "file": "carrossel-concorrente/referencia-11.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/Screenshot_2025-11-21_233822.png?v=1763884544",
+          "alt": null,
+          "bytes": 807170
+        },
+        {
+          "position": 12,
+          "original_index_no_carrossel_real": 13,
+          "file": "carrossel-concorrente/referencia-12.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0036/5369/7585/files/WOODEN_BUSY_BOARD_4.png?v=1763884544",
+          "alt": null,
+          "bytes": 789422
+        }
+      ]
+    },
+    {
+      "product_handle": "quiet-time-activity-cards",
+      "competitor": "Tibatoes",
+      "competitor_product_title": "Screen-Free Advent Calendar | Printable PDF",
+      "competitor_page": "https://tibatoes.com/products/screen-free-advent-calendar-printable-pdf",
+      "competitor_json": "https://tibatoes.com/products/screen-free-advent-calendar-printable-pdf.js",
+      "real_carousel_count": 1,
+      "downloaded_carousel_count": 1,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/screen-free-advent-calendar-listing.png?v=1789202390",
+          "alt": "TibaToes Screen-Free Advent Calendar digital PDF preview with the cover, color-in countdown tracker and two activity cards.",
+          "bytes": 1682699
+        }
+      ]
+    },
+    {
+      "product_handle": "travel-busy-book",
+      "competitor": "toddla.co",
+      "competitor_product_title": "Toddla™ Deer Busy Book",
+      "competitor_page": "https://toddla.co/products/toddla-deer-busy-book",
+      "competitor_json": "https://toddla.co/products/toddla-deer-busy-book.js",
+      "real_carousel_count": 12,
+      "downloaded_carousel_count": 12,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Main.png?v=1785597594",
+          "alt": null,
+          "bytes": 797345
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Depth.png?v=1785597589",
+          "alt": null,
+          "bytes": 618419
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_8_Pages.jpg?v=1785597628",
+          "alt": null,
+          "bytes": 544469
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Open.png?v=1785597585",
+          "alt": null,
+          "bytes": 512883
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Benefit.jpg?v=1785597623",
+          "alt": null,
+          "bytes": 352583
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Car.jpg?v=1785597629",
+          "alt": null,
+          "bytes": 447774
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Closeups.jpg?v=1785597626",
+          "alt": null,
+          "bytes": 409327
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Flights.jpg?v=1785597630",
+          "alt": null,
+          "bytes": 531598
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-09.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Removable_Pieces.jpg?v=1785597628",
+          "alt": null,
+          "bytes": 410060
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-10.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Home.png?v=1785597605",
+          "alt": null,
+          "bytes": 1069645
+        },
+        {
+          "position": 11,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-11.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Portable.jpg?v=1785597627",
+          "alt": null,
+          "bytes": 369871
+        },
+        {
+          "position": 12,
+          "original_index_no_carrossel_real": 12,
+          "file": "carrossel-concorrente/referencia-12.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Deer_Busy_Book_-_Perfect_Gift.jpg?v=1785597629",
+          "alt": null,
+          "bytes": 509519
+        }
+      ]
+    },
+    {
+      "product_handle": "quiet-time-kit",
+      "competitor": "toddla.co",
+      "competitor_product_title": "Starter Montessori Bundle",
+      "competitor_page": "https://toddla.co/products/starter-montessori-bundle",
+      "competitor_json": "https://toddla.co/products/starter-montessori-bundle.js",
+      "real_carousel_count": 11,
+      "downloaded_carousel_count": 11,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Starter_Montessori_Bundle.png?v=1778154676",
+          "alt": null,
+          "bytes": 648353
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori_Busy_Board_Blue_Plus.png?v=1768952139",
+          "alt": "no-repeat center / cover url('https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Blue_Plus.png?v=1768273613')",
+          "bytes": 1157400
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Car_Rides.png?v=1768952139",
+          "alt": null,
+          "bytes": 1740665
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Busy_Board_Independent_Play.png?v=1768952139",
+          "alt": null,
+          "bytes": 1534484
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Montessori-Busy-Board-Gift-Closeup-Blue.png?v=1768952139",
+          "alt": null,
+          "bytes": 1694353
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Main.png?v=1763079889",
+          "alt": null,
+          "bytes": 719393
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Car.png?v=1763079889",
+          "alt": null,
+          "bytes": 1158159
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Switch_Board_Lifestyle.png?v=1730330958",
+          "alt": null,
+          "bytes": 1110470
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-09.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeMain.png?v=1730148530",
+          "alt": null,
+          "bytes": 477759
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-10.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCube6-in-1.png?v=1730148530",
+          "alt": null,
+          "bytes": 316725
+        },
+        {
+          "position": 11,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-11.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/ToddlaMontessoriBusyCubeTravel.jpg?v=1730148530",
+          "alt": null,
+          "bytes": 65277
+        }
+      ]
+    },
+    {
+      "product_handle": "felt-christmas-tree",
+      "competitor": "toddla.co",
+      "competitor_product_title": "Toddla™ Montessori Christmas Tree",
+      "competitor_page": "https://toddla.co/products/toddla-montessori-christmas-tree",
+      "competitor_json": "https://toddla.co/products/toddla-montessori-christmas-tree.js",
+      "real_carousel_count": 10,
+      "downloaded_carousel_count": 10,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Main.jpg?v=1791314679",
+          "alt": null,
+          "bytes": 263508
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_0e87940b-01fd-42ee-b4ad-8a26f9b526b1.jpg?v=1791316617",
+          "alt": null,
+          "bytes": 199294
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Dark.jpg?v=1791314792",
+          "alt": null,
+          "bytes": 383316
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Bonding_2_b8e84e08-daff-4c23-a5b4-bb90a8cbc97d.png?v=1791316580",
+          "alt": null,
+          "bytes": 1139355
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating.jpg?v=1791315008",
+          "alt": null,
+          "bytes": 399733
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Decorating_c99b5a75-ea9d-4536-9eb7-c5258530558a.jpg?v=1791315087",
+          "alt": null,
+          "bytes": 389452
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/MontessoriChristmasTree-Closeup.jpg?v=1791314792",
+          "alt": null,
+          "bytes": 297779
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Dimensions_74d4bc0e-2c8c-4dda-b3fa-ae309dbf0e8c.png?v=1791315608",
+          "alt": null,
+          "bytes": 325892
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-09.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_What_s_Included_999904b7-96fe-4991-b2fc-1f39012a92b6.png?v=1791315608",
+          "alt": null,
+          "bytes": 437936
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-10.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0552/3390/4849/files/Toddla_Montessori_Christmas_Tree_Comparison.png?v=1761621328",
+          "alt": null,
+          "bytes": 672767
+        }
+      ]
+    },
+    {
+      "product_handle": "busy-board-carry-bag",
+      "competitor": "Tibatoes",
+      "competitor_product_title": "Soft Quilted Baby Travel Bag",
+      "competitor_page": "https://tibatoes.com/products/soft-quilted-baby-travel-bag",
+      "competitor_json": "https://tibatoes.com/products/soft-quilted-baby-travel-bag.js",
+      "real_carousel_count": 5,
+      "downloaded_carousel_count": 5,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/1_1e004f8f-4dee-4df8-b3f5-61affb17654b.png?v=1775479790",
+          "alt": null,
+          "bytes": 749728
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/5_525f880f-696a-4f4b-90dc-54c610a4ffed.png?v=1775479790",
+          "alt": null,
+          "bytes": 371252
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/4_9ca2cce1-fa3a-43d4-9a9b-eb8985fecccf.png?v=1775479790",
+          "alt": null,
+          "bytes": 438796
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/3_1e9672f8-e54a-422b-b67d-511001192147.png?v=1775479790",
+          "alt": null,
+          "bytes": 426446
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0885/2455/4575/files/2_d94c1c78-edc5-4c24-bea9-49f63f066d71.png?v=1775479790",
+          "alt": null,
+          "bytes": 457347
+        }
+      ]
+    }
+  ]
+}
